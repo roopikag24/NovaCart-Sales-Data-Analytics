@@ -113,10 +113,10 @@ Explore the Power BI dashboards developed for the NovaCart Sales Data Analytics 
 ### 3. Product Analysis
 ![Product Analysis](Screenshots/Product.png)
 
-### 4. Customer Analysis
+### 4. Customer and Geography Analysis
 ![Customer Analysis](Screenshots/Customer.png)
 
-### 5. Discounts Analysis
+### 5. Discounts and Return Analysis
 ![Discounts Analysis](Screenshots/Discounts.png)
 
 
