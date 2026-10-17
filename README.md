@@ -100,6 +100,26 @@ Power BI supports analysis of sales performance, product categories, customer se
 - Sales Data Analysis
 - Power BI
 
+## 📊 Power BI Dashboard Screenshots
+
+Explore the Power BI dashboards developed for the NovaCart Sales Data Analytics project.
+
+### 1. Executive Overview
+![Executive Overview](Screenshots/Overview.png)
+
+### 2. Sales Analysis
+![Sales Analysis](Screenshots/Sales.png)
+
+### 3. Product Analysis
+![Product Analysis](Screenshots/Product.png)
+
+### 4. Customer Analysis
+![Customer Analysis](Screenshots/Customer.png)
+
+### 5. Discounts Analysis
+![Discounts Analysis](Screenshots/Discounts.png)
+
+
 ## Author
 
 **Roopika**
