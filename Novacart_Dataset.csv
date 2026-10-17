@@ -1,0 +1,1014 @@
+order_date,order_id,customer_id,customer,segment,channel,product_id,product,category,quantity,unit_price,discount_pct,line_total,returned
+10-10-2025,1001,16,Morgan Ibarra,Loyal,Referral,20,Towel Set,Home,1,32.76,,32.76,0
+10-10-2025,1002,60,Rowan Sullivan,Loyal,Direct,1,Crew Tee,Apparel,1,47.45,10,42.71,0
+11-10-2025,1003,82,Avery Tan,Loyal,Direct,18,LED Lamp,Home,1,44.01,25,33.01,0
+11-10-2025,1004,109,Drew Marsh,Champion,Direct,37,Plush Bear,Toys,1,,25,39.5,0
+12-10-2025,,37,Wren Petrov,Regular,Referral,31,Resistance Bands,Sports,2,57.51,20,92.02,0
+12-10-2025,1006,80,eLo Patel,Champion,Orgnaic,10,USB-C Cable,Electronics,1,62.68,0,62.68,0
+12-10-2025,1006,80,Leo Patel,Champion,Organic,12,Bluetooth Speaker,,1,8.45,0,8.45,0
+12-10-2025,1007,82,Avery Tan,Loyal,Direct,39,RC Car,Toys,1,39.98,5,37.98,0
+12-10-2025,1007,82,Avery Tan,Loyal,Direct,28,,Beauty,1,21.24,10,19.12,0
+12-10-2025,1007,82,Avery Tan,Loyal,Direct,5,Socks 3-Pack,Apparel,1,42.53,0,42.53,0
+12-10-2025,1007,82,Avery Tan,Loyal,Direct,,  Vitamin C Serum ,Beauty,1,38.14,0,38.14,0
+14-10-2025,1008,20,Owen Kowalski,New,Paid Search,33,Jump Rope,Sports,2,40.94,0,81.88,0
+14-10-2025,1009,108,Sasha Marsh,Loyal,Referral,24,Lip Balm,Beauty,1,43.42,0,43.42,0
+,1009,108,Sasha Marsh,Loyal,Referral,13,Webcam,Electronics,3,54.9,,164.7,0
+14-10-2025,1009,108,Sasha Marsh,Loyal,Referral,7,Rain Shell,Apparel,3,79.39,5,226.26,0
+15-10-2025,1010,1,Morgan Mendez,Regular,Direct,31,Resistance Bands,Sports,1,57.51,0,57.51,0
+15-10-2025,1011,109,Drew Marsh,Champion,Direct,13,Webcam,,1,54.9,10,,0
+15-10-2025,1011,109,Drew Marsh,Champion,Direct,,Smart Plug,Electronics,1,47.71,10,42.94,0
+16-10-2025,1012,6,Owen Ahmed,Loyal,Paid Search,31,Resistance Bands,Sports,1,57.51,5,54.63,0
+10/16/2025,1013,39,Avery Ahmed,Loyal,,28,SPF 50 Lotion,Beauty,1,21.24,10,19.12,0
+16-10-2025,1013,39,Avery Ahmed,Loyal,Referral,18,LED Lamp,Home,1,,5,41.81,0
+16-10-2025,,42,Iris Reyes,New,Paid Search,40,Art Kit,Toys,3,47.25,0,141.75,0
+16-10-2025,1015,80,Leo Patel,hCampion,Organic,12,,Electronics,3,8.45,,19.01,0
+16-10-2025,1016,100,Wren Park,Champion,Email,15,Smart Plug,Electronics,1,47.71,10,42.94,0
+17-10-2025,1017,47,Owen Petrov,,Organic,30,Water Bottle,Sports,1,41.49,0,41.49,0
+17-10-2025,1018,85,Sasha Petrov,New,iDrect,3,Denim Jacket,Apparel,1,25.47,0,25.47,0
+,1018,85,Sasha Petrov,New,Direct,17,Ceramic Mug,Home,2,6.61,0,13.22,0
+17-10-2025,1019,,Sasha Sullivan,Champion,Organic,36,Puzzle 500pc,Toys,,23.23,0,23.23,0
+17-10-2025,1019,98,,Champion,Organic,30,Water Bottle,Sports,1,41.49,10,37.34,0
+17-10-2025,1019,98,Sasha Sullivan,Champion,Organic,39,RC Car,Toys,2,39.98,0,79.96,0
+17-10-2025,1020,103,Owen Nguyen,,Paid Search,19,Cutting Board,Home,1,50.14,5,47.63,0
+17-10-2025,1020,103,Owen Nguyen,Champion,Paid Search,11,Phone Case,Electronics,1,58.35,10,52.52,0
+17-10-2025,1021,115,Taylor Fischer,New,Email,15,Smart Plug,Electronics,1,47.71,0,47.71,0
+18-10-2025,1022,10,Ivy Ibarra,At-Risk,Direct,9,Wireless Earbuds,Electronics,1,20.69,,20.69,0
+18-10-2025,,10,Ivy Ibarra,At-Risk,Direct,38,Board Game,Tosy,1,25.14,0,25.14,0
+18-10-2025,1022,10,Ivy Ibarra,At-Risk,Direct,33,Jump Rope,Sports,1,40.94,0,,0
+18-10-2025,1023,65,Taylor Walsh,At-Risk,Direct,40,Art Kit,Toys,1,47.25,0,47.25,0
+18-10-2025,1023,,Taylor Walsh,At-Risk,Direct,38,Board Game,Toys,1,25.14,0,25.14,0
+18-10-2025,1023,65,Taylor Walsh,At-Risk,Direct,9,Wireless Earbuds,Electronics,2,20.69,0,41.38,0
+18-10-2025,1024,66,Taylor Ibarra,At-Risk,Organic,24,Lip Balm,Beauty,1,43.42,0,43.42,0
+18-10-2025,1024,66,Taylor Ibarra,At-Risk,Organic,12,Bluetooth Speaker,Electronics,1,8.45,0,8.45,0
+18-10-2025,1025,77,Ezra Diaz,Loyal,Social,7,Rain Shell,Apparel,1,79.39,0,79.39,0
+18-10-2025,,,Ezra Diaz,Loyal,Social,22,Scented Candle,Home,1,29.98,10,26.98,0
+19-10-2025,1026,5,Sasha Osei,New,Email,16,Throw Pillow,Home,2,11.81,0,23.62,0
+19-10-2025,1027,23,Sasha Yamada,Regular,Email,30,Water Bottle,Sports,1,41.49,0,41.49,0
+19-10-2025,1028,26,Jordan Cohen,New,Social,2,Hoodie,Apparel,1,64.02,0,64.02,0
+19-10-2025,1029,38,Sasha Marsh,New,Email,40,Art Kit,Toys,1,47.25,0,47.25,0
+10-19-2025,1029,38,Sasha Marsh,New,Email,38,Board Game,Toys,1,25.14,0,25.14,0
+19-10-2025,1030,97,Devon Yamada,Regular,,39,RC Car,Toys,1,39.98,20,31.98,0
+,,98,Sasha Sullivan,Champion,Organic,18,LED Lamp,Home,2,44.01,10,79.22,0
+19-10-2025,,99,Lila Osei,Loyal,Referral,26,Shampoo Bar,Beauty,1,31.76,25,23.82,1
+19-10-2025,1032,99,Lila Osei,Loyal,Referral,8,Chino Pants,Apparel,3,16.72,25,37.62,0
+19-10-2025,1032,,Lila Osei,Loyal,Referral,1,Crew Tee,Apparel,1,47.45,20,,0
+19-10-2025,1033,101,Kai Romano,Champion,Email,26,Shampoo Bar,Beauty,2,31.76,10,57.17,0
+19-10-2025,1034,,Riley Diaz,New,,1,Crew Tee,Apparel,1,47.45,0,47.45,0
+20-10-2025,1035,12,Rowan Romano,Champion,Social,3,Denim Jacket,Apparel,1,25.47,0,25.47,0
+20-10-2025,1036,96,Jordan Brooks,New,Direct,,Ceramic Mug,Home,1,6.61,0,6.61,0
+20-10-2025,1036,96,Jordan Brooks,New,Direct,,Board Game,,1,25.14,0,25.14,0
+20-10-2025,1036,96,Jordan Brooks,New,Direct,27,Hand Cream,Beauty,1,27.3,0,27.3,0
+20-10-2025,1036,96,Jordan Brooks,New,Direct,,Jump Rope,Sports,3,40.94,0,122.82,0
+21-10-2025,1037,7,Leo Romano,Loyal,Email,38,Board Game,Toys,2,25.14,5,47.77,0
+21-10-2025,1038,51,Harper Petrov,New,Email,4,Joggers,Apparel,2,34.83,0,69.66,0
+21-10-2025,1038,51,Harper Petrov,New,Email,4,Joggers,Apparel,3,34.83,0,104.49,0
+21-10-2025,1039,59,Quinn Petrov,Loyal,Organic,5,Socks 3-Pack,Apparel,2,42.53,5,80.81,
+10-21-2025,1040,100,Wren Park,Champion,Email,25,Sheet Mask,Beauty,2,17.78,5,33.78,0
+22-10-2025,1041,53,Maya Reid,Loyal,Paid Search,1,Crew Tee,Apparel,1,47.45,0,47.45,0
+22-10-2025,1041,53,Maya Redi,Loyal,Paid Search,38,Board Game,Toys,1,25.14,5,23.88,0
+22-10-2025,1042,54,Sasha Nguyen,Regulra,Referral,8,Chino Pants,Apparel,1,16.72,0,16.72,0
+24-10-2025,1043,6,Owen Ahmed,Loyal,PaidS earch,29,Yoga Mat,Sports,2,45.67,10,82.21,0
+24-10-2025,1043,6,Owen Ahmed,,Paid Search,21,Storage Bin,Home,1,49.37,10,44.43,0
+24-10-2025,1043,6,Owen Ahmed,Loyal,Paid Search,7,Rain Shell,Apparel,2,79.39,0,158.78,0
+24-10-2025,1044,12,Rowan oRmano,Champion,Social,23,Vitamin C Serum,Beauty,2,38.14,0,76.28,0
+24-10-2025,1044,12,Rowan Romano,Champion,Social,6,Beanie,Apparel,2,70.47,0,140.94,0
+10-24-2025,1044,12,Rowan Romano,Champion,Social,6,Beanie,Apparel,2,70.47,0,140.94,0
+24-10-2025,1044,12,Rowan Romano,Champion,Social,39,,Toys,1,39.98,0,39.98,0
+24-10-2025,1045,42,Iris Reyes,New,Paid Search,4,Joggers,Apparel,1,34.83,0,34.83,0
+24-10-2025,1046,80,Leo Patel,Champion,Organic,7,Rain Shell,Apparel,1,79.39,0,79.39,0
+24-10-2025,1046,80,Leo Patel,Champion,Organic,39,RC Car,Toys,3,39.98,10,107.95,1
+24-10-2025,1046,80,Leo Patel,Champion,Organic,23,Vitamin C Serum,Beauty,1,38.14,0,38.14,0
+24-10-2025,1046,80,Leo Patel,Champion,Organic,33,Jump Rope,Sports,3,40.94,10,110.54,0
+25-10-2025,1047,6,Owen Ahmed,Loyal,Paid Search,25,  Sheet Mask ,Beauty,1,17.78,0,17.78,0
+25-10-2025,1047,6,Owen Ahmed,Loyal,Paid Search,26,Shampoo Bar,Beauty,1,31.76,10,28.58,0
+25-10-2025,1047,6,Owen Ahmed,Loyal,Paid Search,15,Smart Plug,,3,47.71,0,143.13,0
+25-10-2025,1048,25,Owen Ibarra,New,Social,31,Resistance Bands,Sports,1,,0,57.51,0
+25-10-2025,1048,25,Owen Ibarra,New,Social,22,Scented Candle,Home,1,29.98,0,29.98,0
+26-10-2025,1049,102,Maya Patel,Loyal,Email,2,Hoodie,Apparel,1,64.02,0,64.02,0
+26-10-2025,1050,118,Maya Hassan,Loyal,Social,26,Shampoo Bar,Beauty,3,31.76,25,71.46,0
+28-10-2025,1051,85,Sasha Petrov,New,Direct,25,Sheet Mask,Beauty,1,17.78,10,16,0
+28-10-2025,1052,109,Drew Marsh,Champion,Direct,32,Foam Roller,Sports,1,61.06,25,45.8,0
+29-10-2025,1053,80,Leo Patel,Champion,Organic,35,Building Blocks,oTys,1,11.3,0,11.3,0
+,1053,80,Leo Patel,Champion,Organic,14,Power Bank,Electronics,1,15.36,0,15.36,0
+30-10-2025,1054,12,Rowan Romano,Champion,Social,30,Water Bottle,Soprts,1,41.49,0,41.49,0
+30-10-2025,1055,40,Owen Patel,Regular,Email,12,Bluetooth Speaker,Electronics,1,8.45,0,8.45,0
+30-10-2025,1056,78,Ezra Sullivan,Regular,Social,26,Shampoo Bar,Beauty,2,31.76,0,63.52,0
+10-31-2025,1057,16,Morgan Ibarra,Loyal,Referral,10,USB-C Cable,Electronics,1,62.68,20,50.14,0
+31-10-2025,1058,29,Quinn Reid,Regular,Organic,14,Power Bank,Electronics,2,15.36,0,30.72,0
+31-10-2025,1059,38,Sasha Marsh,New,  Email ,24,Lip Balm,Beauty,1,43.42,0,43.42,0
+31-10-2025,1059,38,Sasha Marsh,,Email,25,,Beuaty,1,,0,17.78,0
+31-10-2025,1060,68,Casey Fischer,Loyal,Paid Search,35,Building Blocks,Toys,1,11.3,5,10.74,0
+31-10-2025,1060,68,Casey Fischer,Loyal,Paid Search,37,Plush Bear,Toys,1,52.67,0,52.67,0
+31-10-2025,1060,68,Casey Fishcer,Loyal,Paid Search,39,RC Car,Toys,3,39.98,0,119.94,0
+31-10-2025,1060,68,Casey Fischer,Loyal,Paid Search,19,Cutting Board,Home,1,50.14,0,50.14,0
+10-31-2025,1061,88,Iris Okafor,Regular,Email,26,Shampoo Bar,Beauty,1,31.76,0,31.76,0
+31-10-2025,1062,101,Kai Romano,Chamipon,Email,10,USB-C Cable,Electronics,2,62.68,0,125.36,0
+01-11-2025,1063,40,Owen Patel,,  Email ,2,Hoodie,Apparel,2,64.02,0,128.04,0
+01-11-2025,1063,40,Owen Patel,Regular,Email,4,Joggers,Apparel,2,34.83,0,69.66,0
+01-11-2025,1063,40,Owen Patel,Regular,Email,12,Bluetooth Speaker,Electronics,3,8.45,0,25.35,0
+01-11-2025,1063,40,Owen Patel,Regular,Email,27,,Beauty,1,27.3,0,27.3,0
+01-11-2025,1064,47,Owen Petrov,Champion,Organic,11,Phone Case,Electronics,1,58.35,15,49.6,0
+01-11-2025,1064,47,Owen Petrov,Champion,Organic,14,Power Bank,,1,15.36,10,13.82,0
+01-11-2025,1065,48,Wren Costa,Regular,,20,Towel Set,Home,1,32.76,0,32.76,0
+01-11-2025,1065,48,Wren Costa,Regular,Paid Search,11,Phone Case,Electronics,1,58.35,0,58.35,1
+01-11-2025,1066,53,Maya Reid,Loyal,Paid Search,37,Plush Bear,,1,52.67,10,47.4,0
+01-11-2025,1067,59,Quinn Petrov,Loyal,Organic,36,Puzzle 500pc,Toys,2,23.23,0,46.46,0
+01-11-2025,1067,59,Quinn Petrov,Loyal,  Organic ,4,Joggers,Apparel,1,34.83,0,34.83,0
+01-11-2025,1067,59,Quinn Petrov,Loyal,Organic,28,SPF 50 Lotion,Beauty,1,21.24,0,21.24,0
+01-11-2025,,60,Rowan Sullivan,Loyal,Direct,21,Storage Bin,Home,2,49.37,5,93.8,0
+01-11-2025,1069,97,Devon Yamada,Regular,Direct,31,Resistance Bands,Sports,1,57.51,0,57.51,0
+01-11-2025,1070,103,Owen Nguyen,Champion,Paid Search,5,Socks 3-Pack,Apparel,,42.53,5,80.81,0
+02-11-2025,1071,77,Ezra Diaz,Loyal,Social,40,  Art Kit ,Toys,2,47.25,0,94.5,0
+02-11-2025,1071,77,Ezra Diaz,Loyal,,10,USB-C Cable,Electronics,3,62.68,0,188.04,0
+03-11-2025,1072,42,Iris Reyes,New,Paid Search,18,LED Lamp,Home,2,44.01,15,74.82,0
+03-11-2025,1072,42,IrisR eyes,New,Paid Search,5,Socks 3-Pack,Apparel,2,42.53,25,63.8,0
+03-11-2025,1073,53,Maya Reid,Loyal,Paid Search,39,RC Car,Toys,1,39.98,20,31.98,0
+03-11-2025,1074,105,Jordan Petrov,New,Paid Search,2,Hoodie,Apparel,1,64.02,20,51.22,0
+03-11-2025,1075,108,Sasha Marsh,Loyal,Referral,15,Smart Plug,,1,47.71,25,35.78,0
+03-11-2025,1076,115,Taylor Fischer,eNw,Email,35,Building Blocks,Toys,1,11.3,0,11.3,0
+04-11-2025,1077,53,Maya Reid,,Paid Search,40,Art Kit,Toys,3,47.25,0,141.75,0
+04-11-2025,1077,53,Maya Reid,Loyal,Paid Search,11,Phone Case,Electronics,2,58.35,0,116.7,0
+04-11-2025,1078,99,Lila Osei,Loyal,Referral,21,Storage Bin,Home,1,49.37,20,39.5,0
+04-11-2025,1079,125,Riley Park,Loyal,Organic,24,Lip Balm,Beauty,1,43.42,0,43.42,0
+11-04-2025,1079,125,Riley Park,Loyal,Organic,36,Puzzle 500pc,Toys,2,23.23,5,,0
+04-11-2025,1079,125,Riley Park,Loyal,Organic,12,Bluetooth Speaker,Electronics,1,8.45,0,8.45,0
+05-11-2025,1080,68,Casey Fischer,Loyal,Paid Search,16,Throw Pillow,Home,2,11.81,0,23.62,0
+05-11-2025,1080,68,Casey Fischer,Loyal,Paid Search,18,LED Lamp,Home,1,44.01,5,41.81,0
+05-11-2025,,77,zEra Diaz,Loyal,Social,17,Ceramic Mug,,1,6.61,5,6.28,0
+05-11-2025,1082,82,Avery Tan,Loyal,Direct,37,Plush Bear,Toys,1,52.67,10,47.4,0
+,1082,,Avery Tan,Loyal,Direct,17,Ceramic Mug,Home,1,6.61,10,5.95,0
+05-11-2025,1082,82,Avery Tan,Loyal,Direct,8,Chino Pants,Apparel,3,16.72,0,50.16,0
+06-11-2025,1083,50,Riley Kowalski,Regular,Direct,35,Building Blocks,Toys,1,11.3,0,11.3,0
+06-11-2025,1083,50,Riley Kowalski,Regular,Direct,17,Ceramic Mug,Home,2,6.61,0,13.22,0
+06-11-2025,1083,50,Riley Kowalski,Regular,Dierct,30,Water Bottle,Sports,1,41.49,0,,0
+06-11-2025,1083,50,Riley Kowalski,Regular,Direct,1,Crew Tee,Apparel,1,,0,47.45,0
+06-11-2025,1084,75,Drew Costa,Loyal,Organic,17,Ceramic Mug,Home,2,6.61,0,13.22,0
+06-11-2025,1084,75,Drew Costa,Loyal,Organic,32,,Sports,1,61.06,5,58.01,0
+06-11-2025,1085,,  Oewn Nguyen ,Champion,Paid Search,39,RC Car,Toys,1,39.98,0,39.98,0
+07-11-2025,1086,6,Owen Ahmed,Loyal,Paid Search,23,Vitamin C Serum,Beauty,1,38.14,10,34.33,0
+07-11-2025,1086,6,Owen Ahmed,,Paid Search,13,Webcam,Electronics,1,54.9,5,52.15,0
+07-11-2025,1086,6,Owen Ahmed,Loyal,Paid Search,33,Jump Rope,Sports,3,40.94,5,116.68,0
+07-11-2025,1087,12,Rowan Romano,Champion,Social,7,Rain Shell,Apparel,1,79.39,5,75.42,0
+07-11-2025,,12,Rowan Romano,Champion,Social,30,Water Bottle,Sports,1,41.49,10,37.34,0
+07-11-2025,1088,59,Quinn Petrov,Loyal,Organic,4,Joggers,Apparel,1,34.83,0,34.83,0
+07-11-2025,1089,98,Sasha Sullivan,Champion,Organic,31,Resistance Bands,Sports,1,57.51,10,51.76,0
+07-11-2025,1089,98,,Champion,Organic,20,Towel Set,Home,1,32.76,0,32.76,0
+11-08-2025,1090,46,Leo Tan,Loyal,Email,,Phone Case,Electronics,3,58.35,10,157.55,0
+08-11-2025,1091,59,Quinn Petrov,Loyal,Organic,31,Resistance Bands,Sports,1,57.51,0,57.51,
+11-08-2025,1092,80,Leo Patel,Champion,Organic,12,Bluetooth Speaker,Electronics,1,8.45,15,7.18,0
+08-11-2025,1093,101,KaiR omano,Champion,Email,28,SPF 50 Lotion,Beauty,2,21.24,10,,0
+09-11-2025,1094,16,Morgan Ibarra,Loyal,Referral,,Scented Candle,Hoem,1,29.98,0,29.98,0
+09-11-2025,1094,16,Morgan Ibarra,Lyoal,Referral,3,Denim Jacket,Apparel,1,25.47,10,22.92,0
+09-11-2025,1094,16,Morgan Ibarra,Loyal,Referral,11,Phone Case,Electronics,2,58.35,0,116.7,0
+09-11-2025,,16,Morgan Ibarra,Loyal,Referral,18,LED Lamp,Home,1,44.01,,41.81,0
+09-11-2025,1095,24,,New,Email,,Cutting Board,Home,1,50.14,0,50.14,0
+11-09-2025,,24,Tessa Reyes,New,Email,26,Shampoo Bar,Beauty,1,31.76,0,31.76,0
+09-11-2025,1095,24,TessaR eyes,New,Email,17,Ceramic Mug,Home,1,6.61,0,6.61,0
+,1095,24,Tessa Reyes,New,Email,5,Socks 3-Pack,Apparel,2,42.53,0,85.06,0
+09-11-2025,1096,46,Leo Tan,Loyal,Email,21,,Home,1,49.37,10,44.43,0
+09-11-2025,1096,46,Leo Tan,Loyal,Email,33,Jump Rope,Sports,1,40.94,10,36.85,0
+09-11-2025,1097,47,Owen Petrov,Champion,Organic,18,LED Lamp,Home,1,44.01,0,,0
+09-11-2025,1098,57,Nora Yamada,At-Risk,Direct,,Smart Plug,Elcetronics,1,47.71,0,47.71,0
+09-11-2025,1098,57,Nora Yamada,At-Risk,Direct,15,Smart Plug,Electronics,1,47.71,0,47.71,0
+09-11-2025,1099,89,Kai Yamada,,Social,6,Beanie,Apparel,1,70.47,25,52.85,0
+09-11-2025,1099,89,Kai Yamada,Regular,Social,40,Art Kit,Toys,3,47.25,15,120.49,0
+09-11-2025,1100,98,Sasha Sullivan,Champion,Organic,4,Joggers,Apparel,1,34.83,0,34.83,0
+09-11-2025,1100,98,Sasha Sullivan,Champion,Organic,31,Resistance Bands,Sports,1,57.51,5,54.63,0
+09-11-2025,1100,98,Sasha Sullivan,Champion,Organic,16,Throw Pillow,Home,2,11.81,5,22.44,0
+09-11-2025,1100,98,Sasha Sullivan,Champion,Organic,30,Water Bottle,Sports,1,41.49,0,41.49,0
+09-11-2025,1101,100,Wren Park,Champion,Email,39,RC Car,Toys,1,39.98,20,31.98,0
+09-11-2025,1101,100,Wren Park,Champion,Email,2,Hoodie,Apparel,1,64.02,,51.22,0
+09-11-2025,1102,103,Owen Nguyen,Champion,Paid Search,33,Jump Rope,Sports,1,40.94,5,38.89,0
+10-11-2025,,6,Owen Ahmed,Loyal,  Paid Search ,12,  Bluetooth Speaker ,Electronics,1,8.45,10,7.61,0
+10-11-2025,1103,6,Owen Ahmed,Loyal,Paid Search,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+10-11-2025,1103,6,Owen Ahmed,Loyal,Paid Search,28,SPF 50 Lotion,Beauty,3,21.24,0,63.72,0
+10-11-2025,1103,6,Owen Ahmed,Loyal,Paid Search,10,USB-C Cable,Electronics,1,62.68,5,59.55,0
+10-11-2025,,53,Maya Reid,Loyal,Paid Search,4,Joggers,Apparel,1,34.83,10,31.35,0
+10-11-2025,1104,53,Maya Reid,Loyal,Paid Search,27,Hand Cream,Beauty,,27.3,5,51.87,0
+11-10-2025,1104,53,Maya Reid,Loyal,Paid Search,27,Hand Cream,Beauty,2,27.3,10,49.14,0
+10-11-2025,1104,53,Maya Reid,Loyal,Paid Search,13,Webcam,Electronics,1,54.9,0,54.9,0
+10-11-2025,1105,81,Ivy Kowalski,Regular,Paid Search,13,Webcam,Electronics,3,54.9,0,164.7,0
+10-11-2025,1106,103,Owen Nguyen,Champion,Paid Search,4,Joggers,Apparel,2,34.83,25,52.25,0
+10-11-2025,1107,116,Jordan Ahmed,  Loyal ,Paid Search,7,Rain Shell,Apparel,1,79.39,10,71.45,
+10-11-2025,1107,116,Jordan Ahmed,Loyal,Paid Search,24,Lip Balm,Beauty,2,43.42,10,78.16,0
+11-11-2025,1108,7,Leo Romano,,Email,8,Chino Pants,Apparel,1,16.72,0,16.72,0
+11-11-2025,1109,,Noel Larsen,Loyal,Organic,8,Chino Pants,Apparel,3,16.72,25,37.62,0
+11-11-2025,1110,32,Owen Brooks,Regular,Organic,13,Webcam,Electronics,,54.9,,109.8,1
+11-11-2025,1111,48,Wren Costa,Regular,Paid Search,28,,Beauty,2,21.24,0,42.48,0
+11-11-2025,1112,54,,Regular,Referral,35,,Toys,1,11.3,0,11.3,0
+11-11-2025,1112,54,Sasha Nguyen,Regular,Referral,14,Power Bank,Electronics,1,15.36,0,15.36,0
+11-11-2025,1113,77,Ezra Diaz,Loyal,Social,33,Jump Rope,Sports,1,40.94,0,40.94,
+11-11-2025,1113,77,  Ezra Diaz ,Loyal,Social,13,Webcam,lEectronics,1,54.9,0,54.9,0
+11-11-2025,1113,77,Ezra Diaz,Loyla,Social,6,Beanie,Apparel,1,70.47,0,70.47,0
+11-11-2025,1114,98,Sasha Sullivan,Champion,Organic,21,Storage Bin,Home,2,49.37,20,78.99,0
+11-11-2025,1115,122,Drwe Reid,Regular,Organic,6,Beanie,Apparel,3,70.47,25,158.56,0
+11-11-2025,1115,122,Drew Reid,Regular,Organic,29,Yoga Mat,Sports,1,45.67,25,34.25,0
+11-11-2025,1115,122,  Drew Reid ,Regular,Organic,20,Towel Set,Home,1,32.76,20,26.21,0
+11-11-2025,1115,122,Drew Reid,Regular,Organic,38,Board Game,Toys,1,25.14,15,21.37,0
+12-11-2025,,38,Sasha Marsh,New,Email,6,Beanie,Apparel,1,70.47,0,70.47,0
+12-11-2025,1117,86,Ivy Ahmed,At-Risk,Social,,Towel Set,Home,2,32.76,25,49.14,0
+12-11-2025,1117,86,Ivy Ahmed,At-Risk,Social,20,TowelS et,Home,3,32.76,10,88.45,0
+12-11-2025,1117,86,Ivy Ahmed,At-Risk,Social,9,Wireless Earbuds,Electronics,2,20.69,15,35.17,0
+12-11-2025,1117,86,Ivy Ahmed,At-Risk,Social,10,USB-C Cable,Electronics,1,62.68,10,56.41,0
+13-11-2025,1118,6,Owen Ahmed,Loyal,,37,Plush Bear,Toys,3,52.67,5,150.11,0
+13-11-2025,1119,22,Taylor Hassan,Reuglar,Email,30,Water Bottle,Sports,1,41.49,0,41.49,0
+13-11-2025,1120,47,Owen Petrov,Champion,Organic,25,Sheet Mask,Beauty,2,17.78,0,35.56,0
+13-11-2025,1120,47,Owen Petrov,Champion,Organic,2,Hoodie,Apparel,1,64.02,5,60.82,0
+13-11-2025,1121,113,Iris Romano,New,Paid Search,16,Throw Pillow,Home,1,11.81,0,,0
+13-11-2025,1121,113,Iris Romano,New,Paid Search,27,Hand Cream,  Beauty ,1,27.3,0,27.3,0
+14-11-2025,1122,7,Leo Romano,Loyal,Email,5,Socks 3-Pack,Apparel,3,42.53,0,127.59,
+11-14-2025,1123,23,Sasha Yamada,Regular,Email,34,Running Belt,Sports,2,58.26,0,116.52,
+14-11-2025,1123,23,Sasha Yamada,Regular,Eamil,28,SPF 50 Lotion,Beauty,1,21.24,0,21.24,0
+14-11-2025,1124,53,Maya Reid,Loyal,Paid Search,30,Water Bottle,Sports,1,41.49,10,37.34,0
+14-11-2025,1125,63,Ezra Petrov,Regular,Email,27,Hand Cream,Beauty,1,27.3,0,27.3,0
+14-11-2025,1125,63,Ezra Petrov,Regular,Email,29,Yoga Mat,Sports,,45.67,0,137.01,0
+14-11-2025,1125,63,Ezra Petrov,Regular,Email,13,Webcam,Electronics,1,54.9,0,54.9,0
+14-11-2025,1126,76,Harper Tan,Regular,Paid Search,28,SPF 50 Lotion,Beauty,1,21.24,0,21.24,1
+14-11-2025,1127,80,Leo Patel,Champion,Organic,,Rain Sehll,Apparel,1,79.39,,71.45,0
+14-11-2025,1127,80,Leo Patel,Champion,,23,Vitamin C Serum,Beauty,1,38.14,25,28.61,1
+14-11-2025,1128,98,Sasha Sullivan,Champion,Organic,21,Storage Bin,Home,2,49.37,0,98.74,0
+14-11-2025,1128,98,Sasha Sullivan,Champion,Organic,14,Power Bank,Electronics,1,15.36,0,15.36,0
+15-11-2025,1129,20,Owen Kowalski,New,Paid Search,20,Towel Set,Home,3,32.76,0,98.28,0
+15-11-2025,,46,Leo Tan,Loyal,Email,32,Foam Roller,Sports,1,61.06,0,61.06,0
+15-11-2025,1131,59,Quinn Petrov,Loyal,Organic,18,LED Lamp,Home,1,44.01,5,41.81,0
+15-11-2025,1132,81,Ivy Kowalski,Regular,Paid Search,29,Yoga Mat,Sports,3,45.67,0,137.01,0
+15-11-2025,1133,101,Kai Romano,Champion,Email,23,Vitamin C Serum,Beauty,3,38.14,0,114.42,0
+,1133,101,Kai Romano,Champion,Email,34,Running Belt,Sports,1,58.26,0,58.26,0
+15-11-2025,1133,101,Kai Romano,,Email,18,LED Lamp,Home,1,44.01,0,44.01,0
+15-11-2025,1133,101,Kai Romano,Champion,Email,20,Towel Set,Home,1,32.76,0,32.76,
+11/15/2025,1134,125,Riley Park,Loyal,Organic,4,Joggers,Apparel,3,34.83,0,104.49,0
+15-11-2025,1134,125,Riley Park,Loyal,Organic,17,Ceramic Mug,Home,,6.61,0,13.22,0
+16-11-2025,1135,82,Avery Tan,Loyal,Direct,14,Power Bank,Electronics,2,15.36,0,30.72,0
+16-11-2025,1135,82,Avery Tan,Loyal,Direct,39,,Toys,1,,0,39.98,0
+16-11-2025,1136,100,Wren Park,Champion,Email,8,Chino Pants,Apparel,1,16.72,10,15.05,1
+16-11-2025,1137,121,Taylor Flynn,New,Social,5,Socks 3-Pakc,Apparel,2,42.53,0,85.06,0
+16-11-2025,1137,121,  Taylor Flynn ,New,Social,40,Art Kit,Toys,1,47.25,0,47.25,0
+17-11-2025,1138,18,Cole Hassan,Regular,Referral,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+17-11-2025,1138,18,Cole Hassan,Regular,Referral,40,Art Kit,Toys,1,47.25,0,,0
+17-11-2025,1139,42,Iris Reyes,New,Paid Search,9,Wireless Earbuds,Electronics,1,20.69,25,15.52,0
+17-11-2025,1139,42,Iris Reyes,New,Paid Search,16,,Home,1,11.81,25,8.86,0
+11-17-2025,1139,42,Iris Reyes,New,Paid Search,35,Building Blocks,Toys,1,11.3,10,10.17,0
+,1140,46,Leo Tan,Loyal,Email,40,Art Kit,Toys,1,47.25,0,47.25,0
+17-11-2025,1140,46,Leo Tan,Loyal,Email,31,Resistance Bands,Sports,3,57.51,10,155.28,1
+11-17-2025,1140,46,Leo Tan,Loyal,Email,3,Denim Jacket,Apparel,1,25.47,10,22.92,0
+17-11-2025,1140,46,Leo Tan,Loyal,Email,5,Socks 3-Pack,Apparel,,42.53,5,80.81,0
+17-11-2025,1141,77,Ezra Diaz,Loyal,Social,9,Wireless Earbuds,Electronics,1,20.69,10,18.62,0
+11-17-2025,1141,77,Ezra Diaz,  Loyal ,Social,23,Vitamin C Serum,Beauty,,38.14,10,102.98,0
+17-11-2025,1142,116,Jordan Ahmed,Loyal,Paid Search,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+17-11-2025,1143,117,Avery Romano,Regular,Social,32,Foam Roller,Sports,3,61.06,0,183.18,0
+17-11-2025,1143,117,Avery Romano,Regular,Social,21,Storage Bin,Home,1,,0,49.37,0
+18-11-2025,1144,19,Avery Costa,Regular,Organic,34,Running Belt,Sports,3,58.26,0,174.78,0
+18-11-2025,1144,19,Avery Costa,Regular,Organic,8,Chino Pants,Apparel,1,16.72,0,16.72,0
+18-11-2025,1144,19,Avery Costa,Regular,Oragnic,33,Jump Rope,Sports,3,40.94,0,122.82,0
+18-11-2025,1144,19,Avery Costa,Regular,Organic,39,RC Car,,1,39.98,0,39.98,0
+18-11-2025,1145,46,Leo Tan,Loyal,Email,,Storage Bin,Home,1,49.37,0,49.37,1
+,1145,46,Leo Tan,Loyal,Email,24,Lip Balm,Beauty,2,43.42,0,86.84,0
+18-11-2025,1145,46,Leo Tan,Loyal,Email,11,Phone Case,Electronics,2,58.35,0,116.7,0
+18-11-2025,1146,72,Drew Fischer,New,Email,31,Resistance Bands,Sports,1,57.51,0,57.51,0
+18-11-2025,1147,100,Wren Park,Champion,Email,12,Bluetooth Speaker,Electronics,1,8.45,0,8.45,0
+11-18-2025,1148,103,Owen Nguyen,Champion,Paid Search,40,Art Kit,Toys,3,,0,141.75,0
+18-11-2025,1148,103,Owen Nguyen,,Paid Search,7,Rain Shell,Apparel,1,79.39,0,79.39,0
+19-11-2025,1149,12,  Rowan Romano ,Champion,Social,32,Foam Roller,Sporst,1,61.06,10,54.95,0
+19-11-2025,1149,12,Rowan Romano,Champion,Social,39,RC Car,Toys,1,39.98,0,39.98,0
+19-11-2025,1150,35,Maya Diaz,New,Email,25,Sheet Mask,Beauty,1,17.78,,13.34,0
+19-11-2025,1150,35,,New,Email,2,Hoodie,Apparel,1,64.02,10,57.62,0
+19-11-2025,1151,48,Wren Costa,Regular,Paid Search,2,Hoodie,Apparel,1,64.02,25,,0
+19-11-2025,1151,48,  Wren Costa ,Regular,Paid Search,13,Webcam,Electronics,1,54.9,25,41.18,0
+19-11-2025,1151,48,Wren Costa,Regular,Paid Search,40,Art Kit,Toys,2,47.25,10,85.05,0
+19-11-2025,1151,48,Wren Costa,Regular,Paid Search,19,Cutting Board,  Home ,1,50.14,15,42.62,0
+19-11-2025,1152,54,Sasha Nguyen,Regular,Referral,27,Hand Cream,Beauty,3,27.3,0,81.9,0
+19-11-2025,1153,105,Jordan Petrov,New,Paid Search,38,Board Game,Toys,1,25.14,15,21.37,0
+20-11-2025,1154,23,Sasha Yamada,Regular,Email,20,Towel Set,Home,1,32.76,20,26.21,0
+20-11-2025,1154,23,Sasha Yamada,Regular,Email,34,Running Belt,Sports,3,58.26,15,148.56,0
+20-11-2025,1154,23,Sasha Yamada,Regular,  Email ,19,Cutting Board,Home,1,50.14,25,37.61,0
+20-11-2025,1154,23,Sasha Yamada,Regular,Email,2,Hoodie,Apparel,1,64.02,20,51.22,0
+20-11-2025,1155,39,Avery Ahmed,Loyal,Referral,36,Puzzle 500pc,Toys,1,23.23,0,23.23,1
+20-11-2025,1155,39,Avery Ahmed,Loyal,Referral,30,Water Bottle,Sports,1,41.49,5,39.42,0
+20-11-2025,1155,39,Avery Ahmed,Loyal,Referral,19,Cutting Board,Home,1,50.14,5,47.63,0
+20-11-2025,1156,53,,Loayl,Paid Search,35,Building Blocks,Toys,2,11.3,0,22.6,0
+21-11-2025,1157,16,Morgan Ibarra,Loyal,Referral,28,SPF 50 Lotion,Beauty,1,21.24,5,20.18,0
+21-11-2025,1157,16,Morgan Ibarra,Loyal,Referral,37,Plush Bear,Toys,1,52.67,10,47.4,0
+21-11-2025,1157,16,Morgan Ibarra,Loyal,Referral,14,Power Bank,Elecrtonics,1,15.36,10,,0
+21-11-2025,1157,16,Morgan Ibarra,Loyal,Referral,40,Art Kit,,1,47.25,10,42.53,0
+21-11-2025,1158,63,Ezra Petrov,Regular,Email,22,Scented Candle,  Home ,1,29.98,0,,0
+21-11-2025,1158,63,Ezra Petrov,Regular,Email,20,Towel Set,Home,1,32.76,0,32.76,0
+21-11-2025,1159,89,Kai Yaamda,,,38,Board Game,Toys,1,25.14,0,25.14,0
+21-11-2025,1159,89,Kai Yamada,Regular,Social,16,Throw Pillow,Home,2,11.81,0,23.62,1
+21-11-2025,1160,100,Wren Park,Champion,Email,18,LED Lamp,Home,1,44.01,10,39.61,0
+21-11-2025,1161,108,Sasha Marsh,  Loyal ,Referral,20,Towel Set,Home,2,32.76,0,65.52,0
+21-11-2025,1161,108,Sasha Marsh,Loayl,Referral,,Yoga Mat,Sports,1,45.67,0,45.67,0
+21-11-2025,1162,112,Riley Marsh,Regular,Paid Search,15,Smart Plug,Electronics,3,47.71,0,143.13,0
+22-11-2025,1163,4,Tessa Osei,Regular,Paid Search,24,Lip Balm,Beauty,2,43.42,0,86.84,0
+22-11-2025,1163,4,Tessa Osei,Regular,Paid Search,36,Puzzle 500pc,Toys,2,23.23,0,46.46,0
+22-11-2025,1164,94,Wren Tan,Regular,Paid Search,5,Socks 3-Pack,Apparel,1,42.53,0,42.53,0
+22-11-2025,1165,116,Jordan Ahmed,Loyal,Paid Search,38,Board Game,Toys,1,25.14,0,25.14,0
+11-23-2025,1166,27,Quinn Yamada,Regular,Email,3,Denim Jacket,Apparel,1,25.47,0,25.47,0
+23-11-2025,,39,Avery Ahmed,Loyal,Referral,38,Board Game,Toys,1,25.14,5,23.88,0
+23-11-2025,1167,39,Avery Ahmed,Loyal,Referral,1,,Apparel,3,47.45,10,128.12,0
+23-11-2025,1167,39,Avery Ahmed,Loyal,Referral,8,Chino Pants,Apparel,1,16.72,5,15.88,0
+23-11-2025,1167,39,Avery Ahmed,Loyal,Referral,34,Running Belt,Sports,1,58.26,10,52.43,0
+23-11-2025,1168,76,Harper Tan,Regular,Paid Search,18,LED Lamp,Home,2,44.01,0,,0
+,1169,100,Wren Park,Champion,  Email ,18,LED Lamp,,1,44.01,10,39.61,0
+23-11-2025,1170,103,Owen Nguyen,Champion,Paid Search,17,Ceramic Mug,Home,1,6.61,0,6.61,0
+23-11-2025,1170,103,Owen Nguyen,Champion,Paid Search,29,Yoga Mat,Sports,1,45.67,5,43.39,0
+23-11-2025,1170,103,  Owen Nguyen ,Champion,Paid Search,16,Throw Pillow,Home,1,11.81,10,10.63,0
+23-11-2025,1170,103,Owen Nguyen,Champion,Paid Search,,Towel Set,Home,1,32.76,,29.48,0
+24-11-2025,1171,,Sasha Osei,New,Email,15,Smart Plug,Electronics,2,47.71,15,81.11,0
+24-11-2025,1171,5,Sasha Osei,New,Email,22,Scented Candle,Home,1,29.98,25,22.49,0
+24-11-2025,,5,Sasha Osei,New,Email,39,RC Car,Toys,1,39.98,20,,0
+24-11-2025,1172,92,Ivy Flynn,At-Risk,Organic,,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+24-11-2025,1172,92,Ivy Flynn,At-Risk,Organic,24,Lip Balm,Beauty,,43.42,0,86.84,0
+24-11-2025,1173,108,Sasha Marsh,Loyal,Referral,20,Towel Set,Home,2,32.76,15,55.69,0
+24-11-2025,1173,108,Sasha Marsh,Loyal,Referral,,Wireless Earbuds,,1,20.69,25,15.52,0
+24-11-2025,1173,108,Sasha Marsh,Loyal,Referral,10,USB-C Cable,Electronics,2,62.68,25,94.02,0
+24-11-2025,1173,108,Sasha Marsh,Loyal,Referral,22,Scented Candle,Home,1,29.98,20,23.98,0
+24-11-2025,1174,122,Drew Reid,Regular,Organic,14,Power Bank,Electronics,2,15.36,0,30.72,0
+24-11-2025,1174,122,Drew Reid,Regular,Organic,11,Phone Case,Electronics,1,58.35,0,58.35,0
+25-11-2025,1175,75,Drew Costa,Loyal,Organic,4,Joggers,Apparel,1,34.83,,33.09,0
+25-11-2025,1176,101,Kai Romano,Champion,Email,18,LED Lamp,Home,1,44.01,15,37.41,0
+25-11-2025,1177,103,Owen Nguyen,Champion,Paid Search,13,Webcam,Electronics,1,54.9,0,54.9,0
+25-11-2025,,,Nora Sullivan,  Regular ,Paid Search,39,RC Car,Toys,2,,0,79.96,0
+26-11-2025,1179,25,Owen Ibarra,New,Social,,Denim Jacket,,2,25.47,15,43.3,0
+11/26/2025,1180,47,Owen Petrov,Champion,Organic,34,Running Belt,Sports,,58.26,10,52.43,0
+26-11-2025,1180,,Owen Petrov,Champion,Organic,19,Cutting Board,Home,1,50.14,10,45.13,0
+26-11-2025,1181,84,Lila Patel,Regular,Organic,25,Sheet Mask,Beauty,1,17.78,0,17.78,0
+11-26-2025,1181,84,Lila Patel,Regular,Organic,24,Lip Balm,Beauty,2,43.42,0,86.84,0
+26-11-2025,1182,97,,Regular,Direct,15,Smart Plug,Electronics,2,47.71,0,95.42,0
+26-11-2025,1183,101,Kai Romano,Champion,Email,25,Sheet Mask,Beauty,1,17.78,10,16,0
+26-11-2025,1183,101,Kai Romano,Champion,Email,40,Art Kit,Toys,,47.25,10,127.58,0
+26-11-2025,1183,101,Kai Romano,Champion,Email,4,Joggers,Apparel,1,34.83,10,31.35,0
+27-11-2025,1184,6,Owen Ahmed,Loyal,  Paid Search ,21,,Home,1,49.37,10,44.43,0
+27-11-2025,1185,8,Noel Larsen,Loyal,Organic,37,Plush Bear,Toys,1,52.67,10,47.4,0
+27-11-2025,1185,8,Noel Larsen,Loyal,Organic,28,SPF 50 Lotion,Beauty,1,21.24,0,21.24,0
+27-11-2025,1186,59,Quinn Petrov,Loyal,Organic,4,Joggers,Apparel,1,34.83,5,33.09,0
+27-11-2025,1186,59,  Quinn Petrov ,Loyal,Organic,35,Building Blocks,Toys,1,11.3,5,10.74,0
+27-11-2025,1187,70,Lila Reyes,Regular,Referral,,Yoga Mat,Sports,1,45.67,0,45.67,0
+11-27-2025,1188,80,Leo Patel,Champion,Organic,33,Jump Rope,Sports,1,40.94,15,34.8,0
+27-11-2025,1189,88,Iris Okafor,Regular,Email,25,Sheet Mask,Beauty,2,17.78,0,35.56,0
+27-11-2025,1189,88,Iris Okafor,Regular,Email,23,Vitamin C Serum,Beauty,1,38.14,0,38.14,0
+27-11-2025,1189,88,Iris Okafor,Regular,Email,17,Ceramic Mug,Home,1,6.61,0,6.61,0
+28-11-2025,1190,73,Jordan Novak,At-Risk,Email,21,Storage Bin,Home,2,49.37,0,98.74,0
+28-11-2025,1191,75,Drew Costa,Loyal,Organic,27,,Beauty,1,27.3,15,23.21,0
+28-11-2025,1191,75,Drew Costa,Lyoal,Organic,19,Cutting Board,Home,1,50.14,15,42.62,0
+28-11-2025,1192,,Leo Patel,Champion,Organic,,Lip Balm,Beauty,3,43.42,0,130.26,0
+28-11-2025,1193,86,Ivy Ahmed,At-Risk,Social,37,Plush Bear,Toys,2,52.67,0,105.34,0
+28-11-2025,1193,86,Ivy Ahmed,At-Risk,Social,28,SPF 50 Lotion,Beuaty,1,21.24,0,21.24,0
+28-11-2025,1193,86,Ivy Ahmed,At-Risk,Social,39,  RC Car ,Toys,1,39.98,0,39.98,0
+28-11-2025,1193,86,Ivy Ahmed,At-Risk,,23,Vitamin C Serum,Beauty,1,38.14,0,38.14,0
+11/28/2025,1194,101,Kai Romano,Champion,Email,20,Towel Set,Home,2,32.76,5,62.24,0
+28-11-2025,1195,108,Sasha Marsh,Loyal,Referral,39,RC Car,Toys,3,39.98,5,113.94,0
+29-11-2025,1196,,Owen Nguyen,Champion,aPid Search,36,Puzzle 500pc,Toys,1,23.23,5,22.07,0
+29-11-2025,1197,114,Riley Diaz,New,Paid Search,27,Hand Cream,,1,27.3,10,24.57,0
+29-11-2025,1197,114,Riley Diaz,New,  Paid Search ,22,Scented Candle,Home,1,,15,25.48,0
+29-11-2025,1197,,Riley Diaz,New,Paid Search,31,Resistance Bands,Sports,3,57.51,25,129.4,0
+30-11-2025,1198,8,Noel Larsen,Loyal,Organic,24,Lip Balm,Beauty,2,43.42,0,86.84,0
+30-11-2025,1198,8,Noel Larsen,Loyal,Organic,11,Phone Case,Electronics,1,58.35,5,55.43,0
+30-11-2025,1199,26,Jordan Cohen,New,Social,,Socks 3-Pack,Apparel,1,42.53,0,42.53,0
+30-11-2025,1200,46,Leo Tan,Loyal,Email,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+30-11-2025,1201,47,Owen Petrov,Champion,Organic,40,Art Kit,Toys,1,,0,47.25,1
+30-11-2025,1202,59,Quinn Petrov,Loyal,Organic,3,Denim Jacket,Appaerl,1,25.47,0,,0
+30-11-2025,1203,77,Ezra Diaz,Loyal,Social,12,Bluetooth Speaker,Electronics,1,8.45,15,7.18,0
+30-11-2025,1204,108,Sasha Marsh,Loyal,Referral,25,Sheet Mask,Beauty,3,17.78,0,53.34,0
+30-11-2025,1205,109,Drew Marsh,Champion,Direct,37,PlushB ear,Toys,1,52.67,20,42.14,0
+01-12-2025,,28,Jordan Costa,At-Risk,Email,26,Shampoo Bar,Beauty,1,31.76,0,,0
+01-12-2025,1207,47,Owen Petrov,Champoin,Organic,18,LED Lamp,Home,1,44.01,0,44.01,0
+01-12-2025,1208,53,Maya Reid,Loyal,Paid Search,37,Plush Bear,Toys,1,52.67,10,47.4,0
+01-12-2025,1209,68,Casey Fischer,Loyal,Paid Search,32,Foam Roller,Sports,1,61.06,0,61.06,0
+01-12-2025,1210,103,,Champion,Paid Search,10,USB-C Cable,Electronics,3,62.68,0,188.04,0
+01-12-2025,1211,114,Riley Diaz,New,Paid Search,15,Smart Plug,Electronics,2,47.71,10,85.88,0
+01-12-2025,1212,115,Taylor Fischer,New,Email,1,Crew Tee,Apparel,2,47.45,20,75.92,0
+01-12-2025,1213,119,Owen Tan,At-Risk,Paid Search,20,Towel Set,Home,3,32.76,0,98.28,0
+,1213,119,Owen Tan,At-Risk,,16,Throw Pillow,Home,3,11.81,0,,0
+02-12-2025,1214,88,Iris Okafor,Regular,Email,34,Running Belt,Sports,2,58.26,0,116.52,0
+02-12-2025,1214,88,Iris Okafor,Regular,,,Webcam,,1,54.9,0,54.9,0
+12-03-2025,1215,8,Noel Larsen,Loyal,Organic,11,Phone Case,Electronics,2,58.35,10,105.03,0
+12-03-2025,1216,20,Owen Kowalski,New,Paid Search,38,Board Game,Toys,1,25.14,0,25.14,
+03-12-2025,1217,39,Avery Ahmed,Loyal,Referral,26,hSampoo Bar,Beauty,1,31.76,0,31.76,0
+12-03-2025,1218,43,Tessa Okafor,At-Risk,Paid Search,6,Beanie,Apparel,2,70.47,0,140.94,0
+03-12-2025,1219,82,Avery Tan,Loyal,Direct,22,Scented Candle,Home,2,29.98,0,59.96,1
+03-12-2025,1220,91,Tessa Mendez,At-Risk,Social,13,Webcam,Electronics,1,54.9,0,54.9,0
+03-12-2025,,91,Tessa Mendez,At-Risk,Social,16,Throw Pillow,Home,3,11.81,0,35.43,0
+03-12-2025,1221,108,Sasha Marsh,Loyal,Referral,31,Resistance Bands,Sprots,1,57.51,,46.01,
+04-12-2025,1222,80,Leo Patel,Champion,Organic,13,Webcam,Electronics,3,54.9,0,164.7,0
+04-12-2025,1222,80,Leo Patel,Champion,Organic,13,Webcam,Electronics,1,54.9,10,49.41,0
+04-12-2025,1222,80,Leo Patel,Champion,Organic,27,Hand Cream,Beauty,2,27.3,10,49.14,0
+04-12-2025,1222,80,Leo Patel,Champion,Organic,24,Lip Balm,Beauyt,1,43.42,10,39.08,0
+04-12-2025,1223,90,Mateo Khan,New,Organic,31,Resistance Bands,Sports,2,,20,92.02,0
+04-12-2025,1223,90,Mateo Khan,New,Organic,38,Board Game,Toys,1,25.14,20,20.11,0
+04-12-2025,,110,Nora Sullivan,Regular,Paid Search,26,Shampoo Bar,Beauty,1,31.76,0,31.76,0
+05-12-2025,1225,5,Sasha Osei,New,Email,18,LED Lamp,Home,2,44.01,0,88.02,0
+05-12-2025,1226,54,Sasha Nguyen,Regular,Referral,32,Foam Roller,Sports,2,61.06,0,122.12,0
+05-12-2025,1226,54,Sasha Nguyen,Regular,Referral,35,Building Blocks,Toys,2,11.3,0,22.6,0
+05-12-2025,1227,90,Mateo Khan,New,Organic,37,Plus hBear,Toys,1,52.67,0,52.67,0
+05-12-2025,1228,116,Jordan Ahmed,Loyal,Paid Search,40,Art Kit,Toys,3,47.25,10,127.58,0
+05-12-2025,1228,116,Jordan Ahmed,Loyal,,13,Webcam,Eelctronics,2,54.9,25,,0
+06-12-2025,1229,8,Noel Larsen,Loyal,Organic,27,Hand Cream,Beauty,1,27.3,0,27.3,0
+06-12-2025,1229,8,Noel Larsen,Loyal,Organic,28,SPF 50 Lotion,Beauty,2,21.24,0,42.48,0
+06-12-2025,1229,8,Noel Larsen,Loyal,Organic,4,Joggers,  Apparel ,1,34.83,,33.09,0
+12-06-2025,1230,115,Taylor Fischer,New,Email,27,Hand Cream,Beauty,1,27.3,15,,0
+06-12-2025,1231,118,Maya Hassan,Loyal,Social,36,Puzzle 500pc,Toys,1,23.23,,19.75,0
+06-12-2025,1232,120,Noel Ibarra,At-Risk,Direct,33,Jump Rope,Sports,3,40.94,0,122.82,1
+06-12-2025,1233,124,Casey Reyes,New,Organic,26,Shampoo Bar,Beauty,1,31.76,0,31.76,0
+06-12-2025,1233,124,Casey Reyes,New,Organic,3,eDnim Jacket,Apparel,2,25.47,0,50.94,0
+06-12-2025,1233,124,Casey Reyes,New,Organic,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+06-12-2025,1233,124,,New,Organic,14,Power Bank,Electronics,1,15.36,0,15.36,0
+07-12-2025,1234,12,Rowan Romano,Champion,Socail,16,Throw Pillow,Home,2,11.81,15,20.08,0
+07-12-2025,1235,33,Lila Walsh,Regular,Email,36,Puzzle 500pc,Toys,1,23.23,20,18.58,0
+07-12-2025,1236,102,Maya Patel,Lyoal,Email,22,Scented Candle,Home,1,29.98,5,28.48,0
+07-12-2025,1236,102,Maya Patel,Loyal,Email,19,Cutting Board,  Home ,2,50.14,5,95.27,1
+07-12-2025,1236,102,Maya Patel,Loyal,Email,32,Foam Roller,Sports,1,61.06,,58.01,0
+07-12-2025,1237,116,Jordan Ahmed,Loyal,Paid Search,36,Puzzle 500pc,Toys,1,23.23,10,20.91,0
+07-12-2025,1237,116,JordanA hmed,Loyal,Paid Search,14,Power Bank,Electronics,1,15.36,25,11.52,0
+07-12-2025,1237,116,Jordan Ahmed,Loyal,Paid Search,36,  Puzzle 500pc ,Toys,1,23.23,20,18.58,1
+12-07-2025,1237,116,Jordan Ahmed,Loyal,Paid Search,13,Webcam,Electronics,1,54.9,20,43.92,0
+08-12-2025,1238,72,Drew Fischer,New,Email,12,Bluetooth Speaker,Electronics,1,8.45,0,8.45,0
+08-12-2025,1238,72,Drew Fischer,New,Email,3,Denim Jacket,Apparel,3,25.47,0,76.41,1
+08-12-2025,1238,72,Drew Fischer,New,Email,34,Running Belt,Sports,2,58.26,0,116.52,0
+08-12-2025,1239,83,Drew Larsen,New,Email,6,,Apparel,1,70.47,0,70.47,0
+,1240,86,Ivy Ahmed,At-Risk,,30,Water Bottle,pSorts,1,41.49,0,41.49,0
+08-12-2025,1240,86,Ivy Ahmed,At-Risk,Social,12,Bluetooth Speaker,Electronics,2,8.45,0,16.9,0
+12-08-2025,,86,Ivy Ahmed,At-Risk,Social,3,Denim Jacket,Apparel,1,25.47,,25.47,0
+08-12-2025,1241,92,Ivy Flynn,At-Risk,Organic,11,Phone Case,Electronics,1,58.35,0,58.35,1
+09-12-2025,1242,16,Morgan Ibarra,Loyal,Referral,1,Crew Tee,Apparel,1,47.45,25,35.59,0
+09-12-2025,1242,16,Morgan Ibarra,Loyal,Referral,8,Chino Pants,Apparel,1,16.72,25,12.54,0
+09-12-2025,1242,16,Morgan Ibarra,Loyal,Referral,39,RC Car,  Toys ,,39.98,10,35.98,0
+09-12-2025,1242,16,Morgan Ibarra,Loyal,Referral,11,Phone Case,Electronics,1,58.35,10,52.52,0
+09-12-2025,1243,37,Wren Petrov,Regular,Referral,9,Wireless Earbuds,Electronics,1,,0,20.69,1
+09-12-2025,1243,37,Wren Petrov,Regular,Referral,12,Bluetooth Speaker,Electronics,1,8.45,0,8.45,
+09-12-2025,1243,37,,Regular,Referral,20,Towel Set,Home,2,32.76,0,65.52,0
+09-12-2025,1244,42,Iris Reyes,New,Paid Search,34,Running Belt,Sports,2,58.26,0,116.52,0
+09-12-2025,1245,75,Drew Costa,Loyal,Organic,23,Vitamin C Serum,Beauty,1,38.14,20,30.51,0
+09-12-2025,1245,75,Drew Costa,Loyal,Organic,6,Beanie,Apparel,1,70.47,15,59.9,0
+09-12-2025,1245,75,Drew Costa,Loyal,Organic,26,Shampoo Bar,Beauty,1,31.76,20,25.41,0
+10-12-2025,1246,12,,Champion,Social,34,Running Belt,Sports,2,58.26,0,116.52,0
+12-10-2025,1246,12,Rowan Romano,Chapmion,Social,6,Beanie,Apparel,,70.47,5,66.95,0
+10-12-2025,1247,33,Lila Walsh,Regular,Email,36,Puzzle 500pc,Toys,1,23.23,10,20.91,0
+10-12-2025,1247,33,Lila Walsh,Regular,Email,9,Wireless Earbuds,Electronics,1,20.69,25,15.52,0
+10-12-2025,1247,33,Lila Walsh,Regular,Email,9,Wireless Earbuds,Electronics,1,20.69,20,16.55,1
+10-12-2025,1248,47,Owen Petrov,Champion,Organic,30,Water Bottle,Sports,1,41.49,10,,0
+10-12-2025,1248,47,Owen Petrov,Champion,Organic,35,Building Blocks,Toys,2,11.3,0,22.6,0
+10-12-2025,1249,49,Taylor Costa,New,,5,Socks 3-Pack,Apparel,2,,0,85.06,0
+10-12-2025,1249,49,Taylor Costa,New,Referral,21,Storage Bin,Home,2,49.37,0,98.74,0
+10-12-2025,1249,49,Taylor Costa,New,Referral,39,RC Car,Toys,1,39.98,0,39.98,0
+10-12-2025,1249,49,Taylor Costa,New,Referral,17,Ceramic Mug,Home,3,6.61,0,19.83,0
+10-12-2025,1250,101,Kai Romano,Champion,Email,31,Resistance Bands,Sports,1,57.51,,54.63,0
+10-12-2025,1251,,Drew Marsh,Champion,Direct,7,Rain Shell,Apparel,1,79.39,5,75.42,0
+10-12-2025,1251,109,Drew Marsh,Champion,Direct,4,  Joggers ,Apparel,1,34.83,0,,0
+10-12-2025,1252,110,Nora Sullivan,Regular,Paid Saerch,24,Lip Balm,Beauty,2,43.42,20,69.47,0
+10-12-2025,1253,120,Noel Ibarra,At-Risk,Direct,20,Towel Set,Home,1,32.76,0,32.76,0
+11-12-2025,1254,3,Jordan Okafor,New,Email,37,,Toys,1,52.67,0,52.67,0
+11-12-2025,1255,19,Avery Costa,Regular,Organic,28,SPF 50 Lotion,Beauty,1,21.24,15,18.05,0
+,1255,19,Avery Costa,Regular,Organic,30,Water Bottle,Sports,2,41.49,10,74.68,0
+11-12-2025,1256,,Rowan Sullivan,Loyal,Direct,34,Running Belt,Sports,1,58.26,10,52.43,0
+11-12-2025,1256,60,Rowan Sullivan,Loyal,Direct,28,SPF 50 Lotion,,2,21.24,0,42.48,0
+12-11-2025,1257,68,Casey Fischer,Loyal,Paid Search,12,Bluetooth Speaker,Elcetronics,1,8.45,10,7.61,0
+11-12-2025,1257,68,Casey Fischer,Loayl,Paid Search,17,Ceramic Mug,Home,1,6.61,0,,0
+11-12-2025,1257,68,Casey Fischer,Loyal,  Paid Search ,19,Cutting Board,  Home ,1,50.14,10,45.13,0
+,1258,70,Lila Reyes,Regular,Referral,11,Phone Case,Electronics,1,58.35,0,58.35,0
+11-12-2025,1258,70,Lila Reyes,Regular,Referral,31,,Sports,1,57.51,0,57.51,0
+11-12-2025,1258,70,Lila Reyes,Regular,Referral,31,  Resistance Bands ,Sports,1,57.51,0,57.51,0
+11-12-2025,1259,99,  Lila Osei ,,Referral,12,Bluetooth Speaker,  Electronics ,1,8.45,0,8.45,0
+11-12-2025,1259,99,Lila Osei,Loyal,Referral,13,  Webcam ,Electronics,1,54.9,0,54.9,0
+11-12-2025,1259,99,Lila Osei,Loyal,Referral,8,Chino Pants,Apparel,1,16.72,10,15.05,0
+11-12-2025,1260,116,Jordan Ahmed,Loyal,Paid Search,,RC Car,Toys,1,39.98,0,39.98,0
+12-12-2025,1261,4,Tessa Osei,Regular,Paid Search,5,Socks 3-Pack,Apparel,2,42.53,0,85.06,0
+12-12-2025,1262,25,Owen Ibarra,New,Social,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+12-12-2025,1262,25,Owen Ibarra,New,Socail,35,Building Blocks,Toys,2,11.3,0,22.6,1
+12-12-2025,1263,41,Quinn Reid,New,Organic,25,Sheet Mask,Beauty,1,17.78,0,17.78,0
+12-12-2025,1264,45,Avery Costa,Regular,Direct,35,Building Blocks,Toys,1,11.3,0,11.3,0
+12-12-2025,1265,59,Quinn Petrov,Loyal,Organic,35,Building Blocks,Toys,1,11.3,5,10.74,1
+12-12-2025,1265,59,Quinn Petrov,Loyal,Organic,3,Denim Jacket,Apparel,1,25.47,5,24.2,0
+12-12-2025,1266,77,Ezra Diaz,Loyal,Social,24,Lip Balm,Beauty,3,43.42,10,117.23,0
+12-12-2025,1267,100,Wren Park,Champion,Email,,Resistance Bands,Sports,1,57.51,5,54.63,0
+12-12-2025,1268,102,Maya Patel,Loyal,Email,15,Smart Plug,Electronics,1,47.71,0,47.71,0
+12-12-2025,1269,118,Maya Hassan,Loyal,Social,28,SPF 50 Lotion,Beauty,1,,0,21.24,0
+13-12-2025,1270,6,Owen Ahmed,Loyal,Paid Search,23,Vitamin C Serum,Beauty,2,38.14,10,68.65,0
+13-12-2025,1270,6,Owen Ahmed,Loyal,Paid Search,27,Hand Cream,Beauty,1,27.3,0,27.3,0
+13-12-2025,1270,6,Owen Ahmed,Lyoal,Paid Search,18,LED Lamp,Home,1,44.01,0,44.01,0
+13-12-2025,1271,89,Kai Yamada,Regular,Social,7,Rain Shell,Apparel,1,79.39,0,79.39,0
+13-12-2025,1271,89,Kai Yamada,Reuglar,Social,4,Joggers,Apparel,2,34.83,0,69.66,0
+13-12-2025,1272,103,Owen Nguyen,Champion,Paid Search,4,Joggers,Apparel,1,34.83,20,27.86,0
+13-12-2025,1273,109,Drew Marsh,Champion,Direct,5,Socks 3-Pack,Apparel,1,42.53,10,38.28,0
+13-12-2025,1273,,Drew Marsh,Champion,Direct,8,Chino Pants,Apparel,1,16.72,5,15.88,1
+14-12-2025,1274,3,Jordan Okafor,New,Email,20,Towel Set,Home,1,32.76,0,32.76,0
+14-12-2025,1274,3,Jordan Okafor,New,Email,8,Chino Pants,Apparel,1,16.72,0,16.72,0
+14-12-2025,1274,3,Jordan Okafor,New,Email,6,Beanie,Apparel,1,70.47,0,70.47,0
+14-12-2025,1275,12,Rowan Romano,Champion,Socail,1,Crew Tee,Apparel,1,47.45,0,47.45,0
+12-14-2025,1275,12,Rowan Romano,Champion,Social,2,Hoodie,Apparel,1,64.02,0,,
+14-12-2025,1276,46,Leo Tan,Loyal,Email,32,Foam Roller,Sports,1,61.06,0,61.06,0
+14-12-2025,1276,46,Leo Tan,Loyal,Email,,Scented Candle,,2,29.98,5,56.96,0
+14-12-2025,1276,46,Leo Tan,Loyal,Email,29,Yoga Mat,,1,45.67,0,45.67,0
+12/14/2025,1277,59,Quinn Petrov,Loayl,Organic,30,Water Bottle,Sports,1,,10,37.34,1
+14-12-2025,1278,81,Ivy Kowalski,Regluar,Paid Search,6,  Beanie ,Apparel,3,70.47,0,211.41,0
+14-12-2025,,81,Ivy Kowalski,Regular,Paid Search,6,,,,70.47,0,70.47,0
+14-12-2025,1279,117,Avery Romano,Regular,Social,30,Water Bottle,Sports,1,41.49,0,41.49,0
+15-12-2025,1280,42,Iris Reyes,New,Paid Search,36,Puzzle 500pc,Toys,2,23.23,0,46.46,0
+15-12-2025,1280,42,Iris Reyes,New,Paid Search,15,Smart Plug,,3,47.71,0,143.13,0
+15-12-2025,1280,42,Iris Reyes,New,Paid Search,13,Webcam,Electronics,2,54.9,0,109.8,0
+15-12-2025,1280,42,Iris Reyes,New,Paid Search,15,Smart Plug,Electronics,,47.71,0,47.71,0
+15-12-2025,1281,49,Taylor Costa,New,Referral,28,SPF 50 Lotion,Beauty,1,21.24,0,21.24,0
+15-12-2025,1282,58,Harper Diaz,At-Risk,Organic,27,Hand Cream,Beauty,1,27.3,0,27.3,0
+15-12-2025,1282,58,Harper Diaz,At-Risk,Organic,20,Towel Set,Home,1,32.76,0,32.76,0
+15-12-2025,1282,58,Harper Diaz,At-Risk,  Organic ,26,Shampoo Bar,Beauty,1,31.76,0,31.76,0
+12-15-2025,1283,72,Dre wFischer,New,Email,6,Beanie,Apparel,1,70.47,0,70.47,0
+12/16/2025,1284,4,Tessa Osei,Regular,Paid Search,20,Towel Set,Home,1,32.76,0,32.76,0
+16-12-2025,1285,60,Rowan Sullivan,Loyal,Direct,26,Shampoo Bar,Beauty,1,31.76,25,23.82,0
+16-12-2025,1286,80,Leo Patel,,Organic,29,Yoga Mat,Sports,2,45.67,5,86.77,0
+16-12-2025,1287,109,Drew Marsh,Champion,Direct,12,Bluetooth Spekaer,Electrnoics,3,8.45,5,24.08,0
+,1287,109,Drew Marsh,Champion,Direct,40,Art Kit,Toys,1,47.25,0,47.25,0
+16-12-2025,1287,109,Drew Marsh,Champion,Direct,6,Beanie,Apparel,1,70.47,5,66.95,0
+17-12-2025,1288,47,Owen Petrov,Champion,Organic,,Plush Bear,Toys,1,52.67,5,50.04,0
+17-12-2025,1288,47,Owen Petrov,Champion,Organic,2,Hoodie,Apparel,2,64.02,0,128.04,0
+17-12-2025,1289,81,Ivy Kowalski,Regular,Paid Search,7,Rain Shell,Apparel,1,79.39,0,79.39,1
+17-12-2025,1289,81,Ivy Kowalski,Regular,Paid Search,38,Board Game,Toys,2,25.14,0,50.28,0
+17-12-2025,1289,81,Ivy Kowalski,Regular,Paid Search,18,LED Lamp,Home,1,44.01,0,44.01,0
+17-12-2025,1290,99,Lila Osei,Loyal,Referral,15,Smart Plug,Electronics,1,47.71,10,42.94,0
+17-12-2025,1290,99,,Loyal,Referral,14,Power Bank,Electronics,1,15.36,0,15.36,0
+17-12-2025,1290,99,Lil aOsei,Loyal,Referral,6,Beanie,Apparel,1,70.47,5,66.95,0
+17-12-2025,1291,103,Owen Nguyen,Champion,Paid Search,23,Vitamin C Serum,Beauty,2,38.14,0,76.28,0
+17-12-2025,1291,103,,Champion,Paid Search,15,Smart Plug,Electronics,1,47.71,10,42.94,0
+17-12-2025,1291,103,Owen Nguyen,Champion,Paid Search,34,Running Belt,Sports,1,58.26,5,55.35,0
+18-12-2025,1292,16,Morgan Ibarra,Loyal,Referral,27,Hand Cream,Beauty,1,27.3,0,27.3,0
+18-12-2025,1292,16,Morgan Ibarra,Loyal,Referral,4,Joggers,Apparel,1,34.83,,34.83,0
+18-12-2025,1292,16,Morgan Ibarra,Loyal,Referral,,LED Lamp,Home,1,44.01,0,44.01,0
+18-12-2025,1293,83,Drew Larsen,New,Email,17,Ceramic Mug,Home,1,6.61,15,5.62,0
+18-12-2025,1294,86,Ivy hAmed,At-Risk,Social,35,Building Blocks,Toys,1,11.3,0,11.3,0
+18-12-2025,1294,86,Ivy Ahmed,At-Risk,Social,8,Chino Pants,Apparel,2,16.72,0,33.44,0
+18-12-2025,1295,124,Casey Reyes,New,Organic,32,Foam Roller,Sports,1,61.06,0,61.06,
+18-12-2025,1295,,Casey Reyes,New,Organic,10,USB-C Cable,Electronics,1,62.68,0,62.68,0
+19-12-2025,1296,12,Rowan Romano,Champion,Social,21,Storage Bin,Home,1,49.37,0,49.37,0
+19-12-2025,1297,46,Leo Tan,Loyal,Email,39,RC Car,Toys,3,39.98,5,113.94,0
+19-12-2025,1298,53,Maya Reid,Loyal,Paid Search,19,Cutting Board,Home,1,50.14,0,50.14,0
+19-12-2025,1299,82,Avery Tan,Loyal,Direct,8,Chino Pants,Apparel,1,16.72,0,16.72,0
+19-12-2025,1300,100,Wren Park,Champion,Email,19,Cutting Board,Hoem,1,50.14,0,50.14,0
+19-12-2025,1301,121,Taylor Flynn,New,Social,10,USB-C Cable,Electronics,1,62.68,0,62.68,0
+19-12-2025,1301,121,Taylor Flynn,eNw,Social,12,Bluetooth Speaker,Electronics,1,8.45,0,8.45,0
+20-12-2025,1302,34,Kai Park,New,Organic,7,Rain Shell,Apparel,,79.39,0,79.39,0
+20-12-2025,1303,47,Owen Petrov,Champion,Organic,31,Resistance Bands,Sports,1,57.51,10,51.76,0
+12/20/2025,1303,47,Owen Petrov,Champion,Organic,8,Chino Pants,Apparel,1,16.72,0,16.72,1
+12-21-2025,1304,103,Owen Nguyen,Champion,Paid Search,32,Foam Roller,Sports,1,61.06,5,58.01,0
+21-12-2025,1305,107,Ivy Carter,Regular,Email,9,Wireless Earbuds,Electronics,3,20.69,0,62.07,1
+22-12-2025,1306,12,Rowan Romano,Champion,Social,6,,Apparel,2,70.47,0,140.94,0
+22-12-2025,1307,64,Kai Larsen,At-Risk,Direct,14,Power Bank,Electronics,1,15.36,10,13.82,1
+22-12-2025,1308,74,Taylor Okafor,A-tRisk,Direct,23,Vitamin C Serum,Beauty,1,38.14,0,38.14,0
+22-12-2025,1308,74,Taylor Okafor,At-Risk,Direct,40,Art Kit,Toys,3,47.25,0,141.75,0
+22-12-2025,1308,74,Taylor Okafor,At-Risk,Direct,22,Scented Candle,Home,1,29.98,0,29.98,0
+22-12-2025,1308,74,Taylor Okafor,At-Risk,,37,Plush Bear,Toys,2,52.67,0,105.34,0
+22-12-2025,1309,82,Avery Tan,,,19,Cutting Board,oHme,2,50.14,,100.28,0
+22-12-2025,1309,82,Avery aTn,Loyal,Direct,5,Socks 3-Pack,Apparel,2,42.53,0,85.06,0
+22-12-2025,1309,82,Avery Tan,Loyal,Direct,5,Socks 3-Pack,Apparel,1,42.53,5,40.4,0
+22-12-2025,1310,88,Iris Okafor,Regular,Email,30,  Water Bottle ,Sports,1,41.49,25,31.12,0
+22-12-2025,1311,100,Wren Park,,Email,38,Board Game,Toys,1,25.14,15,21.37,0
+22-12-2025,1312,101,Kai Romano,Champion,Email,12,Bluetooth Speaker,Electronics,1,8.45,10,7.61,0
+23-12-2025,1313,22,Taylor Hassan,Regular,Email,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+23-12-2025,1313,22,Taylor Hassan,Regular,Email,36,Puzzle5 00pc,Toys,1,23.23,0,23.23,1
+23-12-2025,,59,Quinn Petrov,Loyal,Organic,33,Jump Rope,Sports,1,40.94,15,34.8,0
+23-12-2025,1315,98,Sasha Sullivan,Champion,Organic,33,Jump Rpoe,Sports,3,40.94,5,116.68,0
+24-12-2025,1316,23,Sasha Yamada,Regular,Email,9,Wireless Earbuds,Electronics,,20.69,0,20.69,0
+24-12-2025,1316,23,Sasha Yamada,Regular,  Email ,22,Scented Candle,Home,1,29.98,0,29.98,0
+24-12-2025,1316,23,Sasha Yamada,Regular,Email,28,SPF 50 Lotion,Beauty,1,21.24,0,21.24,0
+24-12-2025,1317,24,Tessa Reyes,New,Email,21,Storage Bin,Home,1,49.37,,49.37,0
+24-12-2025,1317,24,Tessa Reyes,New,Email,12,Bluetooth Speaker,,1,8.45,0,8.45,0
+24-12-2025,1317,24,Tessa Reyes,New,Email,35,Building Blocks,,1,11.3,0,11.3,0
+24-12-2025,1318,46,Leo Tan,Loyal,Email,28,SPF 50 Lotion,Beauty,1,21.24,25,15.93,0
+24-12-2025,1319,47,Owen Petrov,Champion,Organic,39,RC Car,Toys,2,39.98,10,71.96,0
+24-12-2025,1320,98,Sasha Sullivan,Champion,,27,Hand Cream,Beauty,1,27.3,10,24.57,0
+24-12-2025,1321,109,Drew Marsh,Champion,Direct,36,Puzzle 500pc,Toys,1,23.23,10,20.91,0
+24-12-2025,1321,109,Drew Marsh,Champion,Direct,28,SPF 50 Lotion,Beauty,1,21.24,0,21.24,1
+24-12-2025,1321,109,Drew Marsh,Champion,Direct,27,Hand Cream,  Beauty ,1,27.3,10,24.57,0
+24-12-2025,1321,109,Drew Marsh,Champion,,21,Storage Bin,Home,3,49.37,5,,0
+24-12-2025,1322,112,Riley Marsh,Regular,,31,Resistance Bands,Sports,1,57.51,15,48.88,0
+24-12-2025,1323,125,Riley Park,Loyal,Organic,30,Water Bottle,Sports,1,41.49,10,37.34,0
+24-12-2025,1323,125,Riley Park,Loyal,Organic,13,Webcam,Electronics,1,54.9,0,54.9,0
+12/24/2025,1323,125,Riley Park,Loyal,Organic,8,Chino Pants,Apparel,1,16.72,10,15.05,0
+25-12-2025,1324,46,Leo Tan,Loyal,Email,31,Resistance Bands,Sports,1,57.51,,57.51,1
+25-12-2025,1324,46,,Loyal,Email,30,Water Bottle,Sports,1,41.49,0,41.49,0
+25-12-2025,1325,62,Nora Reyes,At-Risk,Direct,34,Running Belt,Sports,1,58.26,0,58.26,0
+25-12-2025,1325,62,Nora Reyes,At-Risk,  Direct ,25,Sheet Mask,Beauty,2,,0,35.56,0
+25-12-2025,1326,85,Sasha Petrov,New,Direct,29,Yoga Mat,Sports,3,45.67,0,137.01,0
+25-12-2025,1327,100,Wren Park,Champion,Email,18,LED Lamp,Home,1,44.01,10,39.61,0
+25-12-2025,1328,109,  Drew Marsh ,Champion,Direct,36,Puzzle 500pc,Toys,2,23.23,10,41.81,0
+26-12-2025,1329,,Avery Tan,New,Organic,20,Towel Set,Home,2,32.76,0,65.52,0
+26-12-2025,1330,47,Owen Petrov,Champion,Organic,21,Storage Bin,Home,1,49.37,5,46.9,0
+12-26-2025,1331,70,,Regular,Referral,5,  Socks 3-Pack ,Apparel,3,42.53,0,127.59,0
+26-12-2025,1331,70,Lila Reyes,Regular,Referral,20,Towel Set,Home,1,32.76,0,32.76,0
+26-12-2025,1332,89,  Kai Yamada ,Regular,Social,32,Foam Roller,Sports,1,61.06,0,61.06,0
+26-12-2025,1332,89,Kai Yamada,Regular,Social,13,Webcam,Electronics,1,54.9,,54.9,0
+26-12-2025,1332,89,Kai Yamada,Regular,  Social ,7,Rain Shell,Apparel,1,79.39,0,79.39,0
+26-12-2025,1333,103,Owen Nguyen,Champion,Paid Search,16,,Home,1,11.81,10,10.63,0
+26-12-2025,1333,103,  Owen Nguyen ,Champion,Paid Search,10,USB-C Cable,Electronics,1,62.68,15,53.28,0
+26-12-2025,1334,116,Jordan Ahmed,Loyal,Paid Search,38,Board Game,Toys,3,25.14,0,75.42,0
+26-12-2025,1334,116,Jordan Ahmed,Loyal,Paid Search,3,Denim Jacket,Apparel,1,25.47,0,25.47,0
+26-12-2025,1334,116,Jordan Ahmed,Loyal,Paid Search,23,Vitamin C Serum,Beauty,1,38.14,10,34.33,0
+27-12-2025,1335,7,Leo Romano,Loyal,Email,23,Vitamin C Serum,Beauty,1,38.14,5,36.23,0
+27-12-2025,1335,7,Leo Romano,Loyal,Email,4,Joggers,  Apparel ,1,34.83,10,31.35,0
+27-12-2025,1335,7,Leo Romano,Loyal,Email,40,Art Kit,Toys,2,,0,94.5,0
+27-12-2025,1336,28,Jordan Costa,At-Risk,Email,28,SPF 50 Lotion,Beauty,1,21.24,15,18.05,0
+27-12-2025,1336,28,Jordan Costa,At-Risk,Email,35,Building Blocks,Toys,2,11.3,25,16.95,0
+27-12-2025,1337,32,Owen Brooks,Regular,Organic,30,Water Bottle,  Sports ,3,41.49,15,105.8,0
+12/27/2025,1338,78,Ezra Sullivan,Regular,Social,18,LED Lamp,Home,1,44.01,25,33.01,0
+27-12-2025,1339,90,Mateo Khan,New,Organic,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+27-12-2025,1339,90,Mateo Khan,New,Organic,37,Plush Bear,Toys,2,52.67,0,105.34,0
+,1339,90,Mateo Khan,New,Organic,33,Jump Rope,Sports,2,40.94,0,81.88,0
+27-12-2025,1339,90,Mateo Khan,New,Organic,30,Water Bottle,pSorts,2,41.49,0,82.98,0
+27-12-2025,1340,102,Maya Patel,Loyal,Email,6,Beanie,  Apparel ,1,70.47,5,66.95,0
+27-12-2025,1341,118,Maya Hassan,Loyal,Social,19,Cutting Board,Home,,50.14,10,45.13,0
+28-12-2025,1342,47,Owen Petrov,Champion,Organic,28,SPF 50 Lotion,Beauty,1,21.24,20,16.99,0
+28-12-2025,1343,72,,New,Email,40,Art Kit,Toys,,47.25,0,47.25,0
+,1344,93,Quinn Walsh,Regular,Paid Search,21,Storage Bin,Home,3,49.37,20,118.49,0
+28-12-2025,1344,93,Quinn Walsh,Regular,Paid Search,25,Sheet Mask,Beauty,1,17.78,15,15.11,0
+12/28/2025,1345,105,  Jordan Petrov ,New,Paid Search,12,Bluetooth Speaker,Electronics,2,,0,16.9,0
+28-12-2025,1345,105,Jordan Petrov,New,Paid Search,22,Scented Candle,Home,1,29.98,0,29.98,0
+28-12-2025,1346,124,Casey Reyes,New,Organic,3,Denim Jacket,Apparel,1,25.47,25,19.1,0
+29-12-2025,1347,12,Rowan Romano,Champion,Social,4,Joggers,Apprael,3,34.83,10,94.04,1
+29-12-2025,1347,12,Rowan Romano,Champion,  Social ,21,Storage Bin,Home,1,49.37,0,49.37,0
+12/29/2025,1347,,Rowan Romano,Champion,Social,21,Storage Bin,Home,1,49.37,0,49.37,0
+,1347,12,Rowan Romano,Champion,Social,40,Art Kit,Toys,3,47.25,,134.66,0
+29-12-2025,1348,,Tessa Reyes,New,Email,18,LED Lamp,Home,1,44.01,0,44.01,0
+29-12-2025,1348,24,Tessa Reyes,New,Email,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+12-29-2025,1349,37,Wren Petrov,Regular,Referral,39,RC Car,Toys,3,39.98,0,119.94,0
+29-12-2025,1350,44,Priya Yamada,,mEail,39,RC Car,,2,39.98,0,79.96,0
+29-12-2025,1351,51,Harper Petrov,New,Email,4,Joggers,Apparel,1,34.83,0,34.83,0
+29-12-2025,1352,60,Rowan Sullivan,Loyal,Direct,17,Ceramic Mug,Home,2,6.61,0,13.22,0
+12-29-2025,1352,60,Rowan Sullivan,,Direct,1,Crew Tee,,1,47.45,0,47.45,0
+29-12-2025,1353,64,Kai Larsen,At-Risk,Direct,17,Ceramic Mug,Home,3,6.61,0,19.83,0
+29-12-2025,1353,64,Kai Larsen,At-Risk,Direct,7,Rain Shell,Apparel,1,79.39,0,79.39,1
+29-12-2025,1353,64,Kai Larsen,At-Risk,Direct,13,Webcam,lEectronics,1,54.9,0,54.9,0
+29-12-2025,1353,64,Ka iLarsen,At-Risk,Direct,,Art Kit,Toys,1,47.25,0,47.25,0
+29-12-2025,1354,80,Leo Patel,Champion,Organic,11,Phone Case,Electronics,2,58.35,10,105.03,0
+29-12-2025,1355,82,Avery Tan,Loyal,Direct,4,Joggers,Apparel,2,34.83,5,66.18,0
+29-12-2025,1356,97,Devon Yamada,Regular,Direct,24,Lip Balm,Beauty,1,43.42,0,43.42,0
+29-12-2025,1357,101,Kai Romano,Champion,Email,30,Water Bottle,Sports,1,41.49,10,37.34,0
+29-12-2025,1357,101,Kai Romano,Champion,Email,18,LED Lamp,Home,1,44.01,0,44.01,0
+30-12-2025,1358,12,Rowan Romano,Champion,Social,25,Sheet Mask,Beatuy,1,17.78,20,14.22,0
+30-12-2025,1358,12,Rowan Romano,Champion,Social,19,Cutting Board,Home,3,50.14,10,135.38,0
+30-12-2025,1359,98,Sasha Sullivan,Champion,Organic,9,Wireless Earbuds,Electronics,1,20.69,5,19.66,1
+30-12-2025,1360,113,Iris Romano,New,Paid Search,21,Storage Bin,Home,1,49.37,0,49.37,0
+30-12-2025,1360,113,Iris Romaon,New,Paid Searhc,15,Smart Plug,Electronics,2,47.71,0,95.42,0
+30-12-2025,1360,113,Iris Romano,New,Paid Search,8,Chino Pants,Apparel,1,16.72,0,16.72,
+31-12-2025,,116,Jordan Ahmed,Loyal,Paid Search,14,Power Bank,Elecrtonics,1,15.36,25,11.52,0
+,1362,125,Riley Park,Loyal,Organic,18,LED Lamp,Home,3,44.01,0,132.03,0
+31-12-2025,1362,125,Riley Park,Loyal,Organic,23,Vitamin C Serum,Beauty,3,38.14,5,108.7,0
+01-01-2026,1363,2,Avery Tan,New,Organic,11,Phone Case,Electronics,1,58.35,0,58.35,0
+01-01-2026,1364,46,Leo Tan,Loyal,Email,36,Puzzle 500pc,Toys,1,23.23,10,20.91,0
+01-01-2026,1364,46,Leo Tan,Loayl,Email,4,Joggers,Apparel,1,34.83,0,34.83,0
+01-01-2026,1364,46,,Loyal,Email,32,Foam Roller,Sports,1,61.06,0,61.06,0
+02-01-2026,1365,7,Leo Romano,Loyal,Email,24,Lip Balm,Beuaty,1,43.42,15,36.91,1
+02-01-2026,1366,100,Wren Park,Champion,Email,32,Foam Roller,Sports,1,61.06,25,45.8,0
+02-01-2026,1366,,Wren Park,Champion,Email,24,Lip Balm,Beauty,1,43.42,25,32.57,0
+02-01-2026,1366,100,Wren Park,Champion,Email,9,Wireless Earbuds,Electronics,1,20.69,10,18.62,0
+02-01-2026,1367,,Drew Marsh,Champion,Direct,24,Lip Balm,Beauty,3,43.42,0,130.26,0
+02-01-2026,1367,109,  Drew Marsh ,Champion,,5,Socks 3-Pack,Apparel,1,42.53,10,38.28,0
+03-01-2026,1368,27,Quinn Yamada,Regular,Email,39,RC Car,Toys,2,39.98,0,79.96,0
+04-01-2026,1369,14,Jordan Ahmed,New,Email,7,Rain Shell,Apparel,1,79.39,0,79.39,0
+04-01-2026,1369,14,Jordan Ahmed,New,Email,8,Cihno Pants,Apparel,1,16.72,0,16.72,0
+04-01-2026,1370,89,Kai Yamada,Regular,Social,9,Wireless Earbuds,Electronics,1,20.69,0,20.69,0
+04-01-2026,1370,89,Kai Yamdaa,Regular,Social,,Webcam,Electronics,1,54.9,,54.9,1
+04-01-2026,1371,,Jordan Petrov,New,Paid Search,25,Sheet Mask,Beauty,1,17.78,0,17.78,0
+05-01-2026,1372,12,Rowan Romano,Champion,Social,5,Socks 3-Pack,Apparel,1,42.53,25,31.9,0
+05-01-2026,1373,102,Maya Patel,Loyal,Email,24,Lip Balm,Beauty,1,43.42,5,41.25,0
+05-01-2026,1373,102,,Loyal,Email,17,Ceramic Mug,Home,2,6.61,0,13.22,0
+06-01-2026,1374,98,Sasha Sullivan,Champion,Organic,32,Foam Roller,Sports,1,61.06,10,54.95,0
+07-01-2026,1375,26,Jordan Cohen,New,Social,5,Socks 3-Pack,,1,42.53,0,42.53,0
+07-01-2026,1376,61,Noel Petrov,At-Risk,Social,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+07-01-2026,1377,,Sasha Petrov,New,Direct,4,Joggers,Apparel,1,34.83,10,31.35,0
+07-01-2026,1377,85,Sasha Petrov,New,Direct,20,Towel Set,Home,1,32.76,15,27.85,0
+07-01-2026,,85,Sasha Petrov,New,Direct,36,Puzzle 500pc,Toys,1,23.23,20,18.58,0
+07-01-2026,1377,85,Sasha Petrov,New,,26,Shampoo Bar,,1,31.76,15,27,0
+08-01-2026,1378,12,Rowan Romano,Champion,Social,36,Puzzle 500pc,Toys,1,23.23,0,23.23,0
+08-01-2026,1379,13,Maya Reyes,At-Risk,Social,40,Art Kit,Toys,1,47.25,0,47.25,0
+08-01-2026,1380,70,Lila Reyes,Regular,Referral,23,Vitamin C Serum,Beauty,1,38.14,10,34.33,1
+,1380,70,Lila Reyes,Regular,Referral,40,Art Kit,Toys,,47.25,10,42.53,0
+01-08-2026,1381,,Drew Costa,Loyal,Organic,30,Water Bottle,Sports,,41.49,0,82.98,1
+08-01-2026,1381,75,Drew Costa,Loyal,Organic,27,Hand Cream,Beauty,3,27.3,0,81.9,0
+09-01-2026,1382,,Sasha Yamada,Regular,Email,30,Water Bottle,Sports,1,41.49,0,41.49,0
+09-01-2026,1382,23,Sasha Yamada,Regular,Email,5,Socks 3-Pack,Apparel,1,42.53,0,42.53,0
+09-01-2026,1383,102,Maya Patel,,Email,7,Rain Shell,Apparel,1,79.39,0,79.39,0
+09-01-2026,1383,102,Maya Patel,Loyal,Email,21,Storage Bin,Home,1,49.37,5,46.9,0
+09-01-2026,1384,,Jordan Ahmed,,Paid Search,12,  Bluetooth Speaker ,Electronics,1,8.45,0,8.45,0
+10-01-2026,1385,41,Quinn Reid,New,Organic,37,Plush Bear,Toys,1,52.67,25,39.5,0
+10-01-2026,1385,41,Quinn Reid,New,Organic,17,Ceramic Mug,Home,1,6.61,10,5.95,0
+01-10-2026,1385,41,Quinn Reid,New,Organic,19,Cutting Board,Home,1,50.14,20,40.11,0
+10-01-2026,1385,41,Quinn Reid,New,Organic,1,Crew Tee,Apparel,1,47.45,10,42.71,
+01-10-2026,1386,56,,New,Organic,5,Socks 3-Pack,Apparel,2,42.53,0,85.06,0
+10-01-2026,1387,69,Tessa Yamada,New,Email,20,Towel Set,Home,1,32.76,15,27.85,0
+10-01-2026,1388,101,Kai Romano,Champion,Email,38,Board Game,Toys,1,25.14,15,21.37,0
+10-01-2026,1388,,Kai Romano,Champion,Email,35,Building Blocks,Toys,1,11.3,15,9.61,0
+10-01-2026,1389,114,Riley Diaz,New,Paid Search,30,Water Bottle,Sports,1,41.49,0,41.49,0
+10-01-2026,1389,114,Riley Diaz,New,Paid Search,4,Joggers,Apparel,3,34.83,0,104.49,0
+11-01-2026,1390,17,Sasha Okafor,At-Risk,Direct,3,Denim Jacket,Apparel,3,25.47,0,76.41,
+11-01-2026,1390,17,Sasha Okafor,At-Risk,Direct,23,Vitamin C Serum,Beauty,2,38.14,0,76.28,0
+01-11-2026,1391,47,Owen Petrov,Champion,Organic,2,Hoodie,Apparel,2,64.02,0,128.04,0
+11-01-2026,1391,47,Owen Petrov,Champion,Organic,28,SPF 50 Lotion,Beauty,1,21.24,0,21.24,0
+11-01-2026,1392,89,Kai Yamada,Regular,Social,11,Phone Case,Electronics,1,58.35,0,58.35,0
+01-11-2026,1393,109,Drew Marsh,Champion,Direct,34,,Sports,1,58.26,25,43.7,0
+12-01-2026,1394,16,Morgan Ibarra,Loyal,Referral,18,LED Lamp,Home,2,44.01,10,79.22,0
+12-01-2026,1395,29,Quinn Reid,eRgular,Organic,38,Board Game,Toys,3,25.14,0,75.42,0
+12-01-2026,1395,29,Quinn Reid,Regular,Organic,2,Hoodie,Apparel,1,64.02,0,64.02,0
+12-01-2026,1396,48,Wren Costa,Regular,Paid Search,19,Cutting Board,Home,2,50.14,0,100.28,0
+12-01-2026,1396,48,Wren Costa,Regular,Paid Search,30,Water Bottle,Sports,1,41.49,0,41.49,0
+12-01-2026,1396,48,Wren Costa,Regular,Paid Search,19,Cutting Board,Home,1,50.14,0,50.14,0
+12-01-2026,1396,48,Wren Costa,Regular,Paid Search,39,RC Car,Toys,1,39.98,0,39.98,0
+12-01-2026,1397,69,Tessa Yamada,New,Email,13,Webcam,Electronics,1,54.9,20,43.92,
+12-01-2026,1397,69,Tessa Ymaada,New,Email,12,Bluetooth Speaker,Electronics,1,8.45,20,6.76,1
+,1398,78,Ezra Sullivan,Regular,Social,17,Ceramic Mug,  Home ,1,6.61,0,6.61,0
+12-01-2026,1399,102,Maya Patel,Loyal,Email,32,Foam Roller,Sports,2,61.06,0,122.12,0
+12-01-2026,1399,102,Maya Patel,Loyal,Email,23,Vitamin C Serum,Beauty,3,38.14,0,114.42,0
+12-01-2026,1399,102,Maya Patel,Loyal,Email,29,Yoga Mat,Sports,2,45.67,5,86.77,0
+12-01-2026,1399,102,Maya Patel,Loyal,Email,7,Rain Shell,Apparel,1,79.39,0,79.39,0
+12-01-2026,1400,109,Drew Marsh,,Direct,29,Yoga Mat,Sports,3,45.67,5,130.16,0
+12-01-2026,1400,109,Drew Marsh,Champion,Direct,38,Board Game,Toys,2,25.14,5,47.77,0
+13-01-2026,1401,110,Nora Sullivan,Regular,Paid Search,16,Throw Pillow,Home,2,11.81,0,23.62,0
+13-01-2026,1401,110,Nora Sullivan,Regular,Paid Search,16,Throw Pillow,Home,2,11.81,0,,0
+14-01-2026,,47,Owen ePtrov,Champion,Organic,25,Sheet Mask,Beauty,1,17.78,10,16,0
+14-01-2026,1402,47,Owen Petrov,Champion,Organic,14,Power Bank,Eletcronics,1,15.36,0,15.36,0
+14-01-2026,1402,47,Owen Petrov,Champion,Organic,19,  Cutting Board ,  Home ,1,50.14,5,47.63,1
+14-01-2026,1402,47,Owen Petrov,Champion,,22,Scented Candle,Home,2,29.98,0,59.96,0
+14-01-2026,1403,53,Maya Reid,Loyal,Paid Search,22,Scented Candle,Home,1,29.98,0,29.98,1
+14-01-2026,1404,124,Casey Reyes,New,Organic,39,RC Car,Toys,2,39.98,0,79.96,
+01-15-2026,1405,90,Mateo Khan,New,Organic,4,Joggers,Apparel,2,34.83,0,69.66,0
+15-01-2026,1406,91,Tessa Mendez,At-Risk,Social,6,Beanie,Apparel,1,70.47,10,63.42,0
+01-16-2026,1407,38,Sasha Marsh,New,Email,16,Throw Pillow,Home,1,11.81,0,11.81,0
+16-01-2026,1407,38,Sasha Marsh,New,Email,,Resistance Bands,Sports,1,57.51,,57.51,0
+17-01-2026,1408,33,Lila Walsh,Regular,Email,6,Beanie,Apparel,2,70.47,0,140.94,0
+17-01-2026,1408,,Lila Walsh,Regular,Email,39,,Toys,1,39.98,0,39.98,0
+17-01-2026,1409,45,Avery Costa,Regular,Driect,3,Denim Jacket,Apparel,3,25.47,0,76.41,0
+17-01-2026,1409,45,Avery Costa,Regular,Direct,19,Cutting Board,Home,1,50.14,0,50.14,0
+18-01-2026,1410,3,Jordan Okafor,New,Email,8,Chino Pants,Apparel,2,16.72,10,30.1,0
+18-01-2026,1411,6,Owen Ahmed,Loyal,Paid Search,9,Wireless Earbuds,Electronics,1,20.69,10,18.62,1
+18-01-2026,1412,16,Morgan Ibarra,Loyal,Referral,35,Building Blocks,Toys,,11.3,5,,0
+18-01-2026,1412,16,Morgan Ibarra,Loyal,Referral,21,Storage Bin,Home,1,49.37,0,49.37,0
+18-01-2026,1412,16,Morgan Ibarra,Loyal,Referral,4,Joggers,Apparel,3,34.83,10,94.04,0
+18-01-2026,1412,16,Morgan Ibarra,Loyal,Referral,9,Wireless Earbuds,Electronics,1,20.69,0,20.69,0
+18-01-2026,1413,71,Casey Novak,At-Risk,Referral,38,Board Game,Toys,1,25.14,0,25.14,0
+18-01-2026,1414,104,Jamie Hassan,Regular,Direct,31,Resistance Bands,Sports,3,57.51,0,172.53,0
+18-01-2026,1414,104,Jamie Hassan,Regular,Direct,30,Water Bottle,Sports,1,41.49,0,,0
+18-01-2026,1414,104,Jamie Hassan,Regular,Direct,,Towel Set,Home,,32.76,0,32.76,0
+18-01-2026,1414,104,Jamie Hassan,Regular,Direct,30,Water Bottle,Sports,1,41.49,0,41.49,0
+18-01-2026,1415,125,Riley Park,Loyal,Organic,21,Storage Bin,Home,1,49.37,10,44.43,0
+18-01-2026,1415,125,Riley Park,Loyal,Organic,7,Rain Shell,Apparel,1,79.39,5,75.42,0
+18-01-2026,1415,125,  Riley Park ,Loyal,Organic,15,Smart Plug,Eelctronics,1,47.71,0,47.71,0
+18-01-2026,1415,125,Riley Park,Loyal,Organic,8,Chino Pants,,2,16.72,10,,0
+19-01-2026,1416,32,Owen Brooks,Regular,Organic,12,Bluetooth Speaker,Electronics,1,8.45,0,8.45,0
+19-01-2026,1416,32,Owen Brooks,Regulra,Organic,11,Phone Case,Electronics,1,58.35,0,58.35,0
+19-01-2026,1417,78,Ezra Sullivan,Regular,Social,38,Board Game,Toys,1,25.14,0,25.14,0
+19-01-2026,1418,98,Sasha Sullivan,Champion,Organic,9,Wireless Earbuds,Electronics,1,20.69,25,15.52,0
+21-01-2026,,54,Sasha Nguyen,Regular,Referral,23,Vitamin C Serum,Beauty,1,38.14,25,28.61,0
+01/21/2026,1419,54,Sasha Nguyen,Regular,Referral,6,Beanie,Apparel,1,70.47,10,,0
+22-01-2026,1420,43,,  At-Risk ,,7,Rain Shell,Apparel,1,79.39,10,71.45,0
+22-01-2026,1420,43,Tessa Okafor,At-Risk,Paid Search,16,Throw Pillow,,3,11.81,15,30.12,0
+01/22/2026,1421,99,Lila Osei,Loyal,Referral,10,USB-C Cable,Electronics,1,62.68,0,62.68,0
+01-23-2026,1422,56,Noel Osei,New,Organic,34,Running Belt,Sports,1,,15,49.52,0
+23-01-2026,1422,56,Noel Osei,New,Oragnic,4,Joggers,Apparel,1,34.83,15,29.61,0
+23-01-2026,1423,82,Avery Tan,,Direct,23,Vitamin C Serum,Beauty,,38.14,15,32.42,0
+23-01-2026,1423,82,Avery Tan,Loyal,Direct,4,Joggers,Apparel,2,34.83,20,55.73,1
+23-01-2026,1424,100,Wren Park,Champion,Email,36,Puzzle 500pc,Toys,2,23.23,25,34.85,0
+01-24-2026,,23,Sasha Yamada,Regular,Email,3,Denim Jacket,Apparel,1,25.47,0,25.47,0
+24-01-2026,1425,23,Sasha Yamada,Regular,Email,25,Sheet Mask,Beauty,2,,0,35.56,0
+24-01-2026,,23,Sasha Yamada,  Regular ,Email,25,Sheet Mask,Beauty,1,17.78,0,17.78,0
+24-01-2026,1425,23,Sasha Yamada,Regular,Email,10,USB-C Cable,Electronics,1,62.68,0,62.68,0
+24-01-2026,1426,38,Sasha Marsh,New,Email,31,Resistance Bands,Sports,1,57.51,0,57.51,0
+24-01-2026,1426,38,Sasha Marsh,New,Email,1,Crew Tee,Apparel,2,47.45,0,94.9,0
+24-01-2026,1427,47,Owen Petrov,Champion,Organic,2,Hoodie,Apparel,1,64.02,0,64.02,0
+24-01-2026,1427,47,Owen Petrov,Champion,Organic,23,Vitamin C Serum,Beauty,1,38.14,0,38.14,0
+24-01-2026,1427,47,Owen Petrov,Champion,Organic,20,Towel Set,Home,1,32.76,0,32.76,1
+24-01-2026,1427,47,,Champion,Organic,38,Board Game,Toys,1,25.14,10,22.63,0
+24-01-2026,1428,53,Maya Reid,Loyal,Paid Search,37,Plush Bear,Toys,1,52.67,10,47.4,0
+24-01-2026,1429,84,Lila Patel,Regular,Organic,35,Building Blocks,Toys,,11.3,0,11.3,0
+24-01-2026,1429,84,Lila Patel,Regular,Organci,22,Scented Candle,Home,1,29.98,0,29.98,0
+24-01-2026,1430,123,Noel Reyes,New,Paid Search,40,Art Kit,Toys,1,47.25,10,42.53,0
+25-01-2026,,39,Avery Ahmed,  Loyal ,Referral,9,Wireless Earbuds,Electronics,3,20.69,10,55.86,0
+01-26-2026,1432,102,Maya Patel,Loyal,Email,21,Storage Bin,Home,1,49.37,15,41.96,0
+26-01-2026,1432,102,Maya Patel,Loyal,Email,8,Chino Pants,Appaerl,1,16.72,10,15.05,0
+27-01-2026,1433,46,Leo Tan,Loyal,Email,37,Plush Bear,,1,52.67,5,,0
+27-01-2026,1434,104,Jamie Hassan,Regular,Direct,36,Puzzle 500pc,Toys,2,23.23,0,46.46,0
+28-01-2026,1435,46,Leo Tan,Loyal,Email,3,Denim Jacket,Apparel,3,25.47,20,61.13,0
+28-01-2026,1435,46,Leo Tan,Loyal,Email,38,Board Game,Toys,1,25.14,25,18.86,0
+28-01-2026,1436,,Kai Larsen,At-Risk,Direct,21,  Storage Bin ,Home,3,49.37,20,118.49,0
+28-01-2026,1437,103,Owen Nguyen,Champion,  Paid Search ,13,Webcam,Electronics,1,54.9,5,52.15,0
+28-01-2026,1438,110,Nora Sullivan,Regular,Paid Search,33,Jump Rope,Sports,1,40.94,0,40.94,0
+28-01-2026,1439,125,RileyP ark,Loyal,Organic,11,Phone Case,Electronics,2,58.35,10,105.03,0
+28-01-2026,1439,125,Riley Park,Loyal,Organic,1,,Apparel,1,47.45,0,47.45,0
+28-01-2026,1439,125,Riley Park,Loyal,Organic,3,Denim Jacket,Apparel,1,25.47,10,22.92,0
+01-29-2026,1440,77,Ezra Diaz,Loyal,Social,16,Throw Pillow,Home,3,11.81,15,30.12,0
+29-01-2026,1440,77,Ezra Diaz,Loyal,Social,25,Sheet Mask,Beauty,2,17.78,25,26.67,0
+30-01-2026,1441,98,Sasha Sullivan,Champion,Organic,39,RC Car,Toys,1,39.98,0,39.98,0
+30-01-2026,1441,98,Sasha Sullivan,Champion,Organic,17,Ceramic Mug,Home,3,6.61,5,18.84,0
+30-01-2026,1442,107,Ivy Carter,Regular,Email,,Jump Rope,Sports,1,40.94,10,36.85,0
+01/31/2026,1443,97,Devon Yamada,Regular,Direct,31,Resistance Bands,Sports,2,57.51,0,115.02,1
+31-01-2026,1443,97,Devon Yamada,Regular,Direct,30,Water Bottle,Sports,1,41.49,0,41.49,0
+01-02-2026,1444,35,Maya Diaz,New,Email,24,Lip Balm,Beauty,1,43.42,0,43.42,0
+01-02-2026,1444,35,Maya Diaz,New,Email,31,Resistance Bands,Sports,1,57.51,0,57.51,0
+01-02-2026,1445,41,Quinn Reid,New,Organic,,,Apparel,1,70.47,0,70.47,0
+01-02-2026,1445,41,Quinn Reid,New,Organic,27,Hand Cream,Beauty,1,27.3,0,27.3,0
+01-02-2026,1446,98,Sasha Sullivan,Champion,Organic,33,Jump Rope,Sports,1,40.94,,36.85,0
+02-02-2026,1447,42,Iris Reyes,  New ,Paid Search,10,USB-C Cable,Electronics,1,62.68,15,53.28,0
+02-02-2026,1447,42,Iris Reyes,New,Paid Search,34,Running Belt,Sports,1,58.26,15,49.52,0
+02-02-2026,1448,113,Iris Romano,New,Paid Search,34,Running Belt,Sports,1,58.26,0,58.26,0
+,1449,109,Drew Marsh,Champion,Direct,19,Cutting Board,Home,3,50.14,20,120.34,0
+03-02-2026,1449,109,Drew Marsh,Champion,Direct,35,Building Blocks,Toys,1,11.3,20,9.04,0
+03-02-2026,1449,109,Drew Marsh,Champion,Direct,23,Vitamin C eSrum,Beauty,1,38.14,20,30.51,0
+04-02-2026,1450,47,Owen Petrov,Champion,Organic,39,RC Car,Toys,1,39.98,0,39.98,0
+04-02-2026,1451,67,Noel Costa,Loyal,Social,2,  Hoodie ,Apparel,1,64.02,15,54.42,0
+04-02-2026,1452,75,Drew Costa,Loyal,Organic,28,SPF 50 Lotion,Beauty,2,21.24,5,40.36,0
+,1453,77,Ezra Diaz,Loyal,Social,29,Yoga Mat,Sports,1,45.67,0,45.67,0
+04-02-2026,1454,96,Jordan Brooks,New,Direct,1,Crew Tee,Apparel,1,47.45,0,47.45,0
+04-02-2026,1454,96,Jordan Brooks,New,Direct,15,Smart Plug,Electronics,1,47.71,0,47.71,0
+04-02-2026,1455,119,Owen Tan,At-Risk,Paid Search,32,Foam Roller,Sports,1,61.06,0,61.06,0
+05-02-2026,1456,47,Owen Petrov,Champino,Organic,24,Lip Balm,Beauty,,43.42,0,43.42,0
+,1456,47,Owen Petrov,Champion,Organic,26,Shampoo Bar,Beauty,1,31.76,10,28.58,0
+05-02-2026,1456,47,Owen Petrov,Champion,Organic,15,Smart Plug,Electronics,1,47.71,0,47.71,0
+05-02-2026,1456,47,Owen Petrov,Champion,Organic,27,Hand Cream,Beauty,2,27.3,10,49.14,0
+05-02-2026,1457,118,Maya Hassan,Loyal,Social,38,Board Game,Toys,1,25.14,10,22.63,0
+06-02-2026,1458,7,Leo Romano,Loyal,Email,,LED Lamp,Home,2,44.01,0,88.02,0
+06-02-2026,1458,7,Leo Romano,Loyal,Email,2,Hoodie,Apparel,2,64.02,10,115.24,0
+,1458,7,Leo Romano,Loyal,Email,39,RC Car,Toys,1,39.98,0,39.98,0
+06-02-2026,1459,47,Owen Petrov,Champion,Organic,16,Throw Pillow,Home,1,11.81,0,11.81,0
+06-02-2026,1459,47,Owen Petrov,Champion,Organic,14,Pwoer Bank,Electronics,1,15.36,0,15.36,0
+06-02-2026,1459,47,Owen Petrov,Champion,Organic,39,  RC Car ,Toys,1,39.98,0,39.98,1
+07-02-2026,1460,59,Quinn Petrov,Loyal,Organic,12,Bluetooth Speaker,Electronics,2,8.45,0,16.9,0
+07-02-2026,1460,59,Quinn Petrov,Loyal,Organic,34,Running Belt,Sports,1,58.26,0,58.26,0
+07-02-2026,1460,59,Quinn Petrov,Lyoal,Organic,18,LED Lamp,Home,2,44.01,0,88.02,0
+07-02-2026,1461,75,Drew Costa,Loyal,Organic,,Phone Case,Electronics,3,58.35,0,175.05,0
+07-02-2026,1461,75,Drew Costa,Loyal,Organic,34,Running Belt,Sports,1,58.26,10,52.43,0
+,1461,75,Drew Costa,Loyal,Organic,38,Board Game,Toys,1,25.14,0,25.14,1
+07-02-2026,1462,80,Leo Patel,Champion,  Organic ,7,Rain Shell,Apparel,1,79.39,0,79.39,
+07-02-2026,1463,100,Wren Park,Champion,Email,9,  Wireless Earbuds ,Electronics,1,20.69,10,18.62,0
+,1464,103,Owen Nguyen,Champion,Paid Search,29,Yoga Mat,Sports,2,45.67,0,91.34,0
+07-02-2026,1464,103,Owen Nguyen,Champion,Paid Search,39,RC Car,Toys,1,39.98,0,39.98,0
+08-02-2026,1465,15,Kai Reyes,At-Risk,Organic,5,Socks 3-Pack,Apparel,3,42.53,0,127.59,0
+08-02-2026,1465,15,Kai Reyes,At-Risk,Organic,13,Webcma,Electronics,2,54.9,0,109.8,0
+08-02-2026,1465,15,Kai Reyes,At-Risk,Organic,29,Yoga Mat,Sports,2,45.67,0,91.34,0
+08-02-2026,1466,49,Taylor Costa,New,Referral,32,Foam Roller,Sports,3,61.06,20,146.54,0
+09-02-2026,1467,1,Morgan Mendez,Regular,Direct,17,Ceramic Mug,Home,1,6.61,0,6.61,1
+09-02-2026,1467,1,Morgan Mendez,Regular,Direct,40,,Toys,3,47.25,0,141.75,0
+09-02-2026,1468,109,Drew Marsh,Champion,Direct,31,Resistance Bands,Sports,1,57.51,0,57.51,0
+09-02-2026,1468,,Drew Marsh,Champion,Direct,35,Building Blocks,Toys,1,11.3,10,10.17,0
+10-02-2026,1469,47,Owen Petrov,Champion,Organic,12,Bluetooth Speaker,Electronics,1,8.45,0,8.45,0
+10-02-2026,1469,47,Owen Petrov,Champion,Organic,22,Scented Candle,Home,2,29.98,5,56.96,0
+10-02-2026,1469,47,Owen Petrov,Champion,Organic,30,Water Bottle,Sports,3,41.49,0,124.47,0
+10-02-2026,1470,58,Harper Diaz,At-Risk,Organic,24,Lip Balm,Beauty,1,43.42,0,43.42,0
+10-02-2026,1470,58,Harper Diaz,,Organic,29,Yoga Mat,Sports,1,45.67,0,45.67,0
+10-02-2026,1471,,Ezra Diaz,Loyal,Social,15,Smart Plug,Electronics,1,47.71,10,42.94,0
+10-02-2026,1472,122,Drew Reid,Regular,Organic,2,Hoodie,Apparel,1,64.02,15,54.42,0
+11-02-2026,1473,19,Avery Costa,,Organic,11,Phone Case,Electronics,1,58.35,15,49.6,0
+02-11-2026,1474,100,Wren Park,Champion,Email,20,Towel Set,  Home ,1,32.76,25,24.57,0
+11-02-2026,1475,102,Maya Patel,Loyal,Email,20,Towel Set,Home,,32.76,25,24.57,1
+11-02-2026,1475,102,Maya Patel,Loyal,mEail,1,Crew Tee,Apparel,3,47.45,10,128.12,0
+11-02-2026,1476,110,Nora Sullivan,Regular,Paid Search,26,Shampoo Bar,Beauty,2,31.76,0,63.52,0
+11-02-2026,1477,116,Jordan Ahmed,Loyal,  Paid Search ,28,SPF 50 Lotion,Beauty,1,21.24,15,18.05,0
+11-02-2026,1477,116,Jordan Ahmed,Loyal,  Paid Search ,32,Foam Roller,Sports,1,61.06,15,51.9,0
+,1478,8,Noel Larsen,Loyal,Organic,15,Smart Plug,Electronics,2,47.71,5,90.65,
+12-02-2026,1478,8,Noel Larsen,Loyal,Organic,11,Phone Case,Electronics,,58.35,0,58.35,0
+12-02-2026,1479,59,Quinn Petrov,Loyal,Organic,28,SPF 50 Lotion,Beauty,1,21.24,15,18.05,0
+02-12-2026,1479,59,Quinn Petrov,Loyal,Organic,6,Beanie,Apparel,1,70.47,10,63.42,0
+12-02-2026,1480,,Drew Costa,Loyal,Organic,18,LED Lamp,Home,1,44.01,0,44.01,0
+12-02-2026,1481,122,Drew Reid,Regular,Organic,40,Art Kit,Toys,1,47.25,0,47.25,0
+13-02-2026,1482,47,Owen Petrov,Champion,,8,Chino Pants,Apparel,3,16.72,0,50.16,0
+13-02-2026,1483,56,Noel Osei,New,Organic,9,Wireless Earbuds,Electronics,2,20.69,0,41.38,0
+13-02-2026,1483,56,,New,Organic,14,Power Bank,Electronics,1,15.36,0,15.36,0
+13-02-2026,1483,56,Noel Osei,New,Organic,37,Plush Bear,oTys,1,52.67,0,52.67,0
+13-02-2026,1483,56,Noel Osei,  New ,  Organic ,20,Towel Set,Home,1,32.76,0,32.76,0
+13-02-2026,1484,80,Leo Patel,Champion,Organic,30,Water Bottle,,1,41.49,5,39.42,0
+14-02-2026,1485,8,Noel Larsen,Loyal,Organic,1,Crew Tee,Apparel,1,47.45,10,42.71,0
+14-02-2026,1486,100,Wren Park,Champion,Email,5,Socks 3-Pack,Apparel,1,42.53,5,40.4,0
+14-02-2026,1486,100,Wren Park,Champion,Email,17,Ceramic Mug,Home,3,6.61,0,19.83,0
+14-02-2026,1486,100,Wren Park,Champion,Email,1,Crew Tee,Apparel,1,47.45,5,45.08,0
+14-02-2026,1487,122,Drew Reid,Regular,Organic,40,Art Kit,Toys,1,47.25,0,47.25,0
+14-02-2026,1487,122,Drew Reid,Regular,Organic,39,RC Car,Toys,1,39.98,0,39.98,0
+14-02-2026,1487,122,Drew Reid,Regular,Organic,39,RC Car,Toys,1,39.98,,39.98,0
+15-02-2026,1488,5,,New,Email,26,Shampoo Bar,Beuaty,1,31.76,0,31.76,0
+15-02-2026,1489,79,Iris Cohen,Regular,Organic,2,Hoodie,Apparel,1,64.02,0,64.02,0
+15-02-2026,1489,79,Iris Cohen,Regular,Organic,30,Water Bottle,Sports,1,41.49,0,41.49,0
+15-02-2026,1489,79,Iris Cohen,Regular,Organic,28,SPF 50 Lotion,Beauty,1,21.24,0,21.24,0
+15-02-2026,1489,79,Iris Cohen,Regular,Organic,38,Board Game,Toys,1,25.14,0,25.14,0
+15-02-2026,1490,103,Owen Nguyen,Champion,Paid Search,28,SPF 50 Lotion,Beauty,,21.24,20,16.99,0
+15-02-2026,1490,103,Owen Nguyen,Champion,Paid Search,33,Jump Rope,Sports,1,40.94,15,34.8,0
+02/15/2026,1490,103,Owen Nguyen,Champion,Paid Search,11,Phone Case,Electronics,1,58.35,25,43.76,
+15-02-2026,1490,103,Owen Nguyen,Champion,Paid Search,1,  Crew Tee ,Apparel,1,,10,42.71,
+16-02-2026,1491,38,Sasha Marsh,New,Email,22,Scented Candle,Home,2,29.98,15,50.97,0
+16-02-2026,1492,104,Jamie Hassan,Regular,Direct,19,Cutting Board,Home,1,50.14,0,50.14,
+02-16-2026,1492,104,Jamie Hassan,Regular,Direct,32,Foam Roller,Sports,1,61.06,0,61.06,1
+16-02-2026,1493,125,Riley Park,Loyal,Organic,11,Phone Case,Electronics,3,58.35,10,157.55,0
+17-02-2026,1494,33,Lila Walsh,Regular,Email,26,Shampoo Bar,Beauty,2,31.76,0,63.52,0
+17-02-2026,1494,33,,Regular,Email,9,Wireless Earbuds,,2,20.69,0,41.38,1
+17-02-2026,1494,33,Lila Walsh,Regular,Email,25,Sheet Mask,Beauty,1,17.78,0,17.78,0
+17-02-2026,1495,59,Quinn Petrov,Loyal,Organic,26,Shampoo Bar,Beauty,2,31.76,0,63.52,0
+17-02-2026,1495,59,Quinn Petrov,Loyal,Organic,38,Board Game,Toys,1,25.14,10,22.63,0
+17-02-2026,1496,103,Owen Nguyen,Champion,Paid Search,31,Resistance Bands,Sports,1,57.51,5,54.63,0
+18-02-2026,1497,59,Quinn Petrov,Loyal,Organic,23,Vitamin C Serum,Beauty,2,38.14,25,57.21,1
+02/18/2026,1498,98,Sasha Sullivan,Champion,Organic,4,Joggers,Apparel,1,34.83,10,31.35,0
+18-02-2026,1499,102,Maya Patel,Loyal,Email,40,Art Kit,Toys,1,47.25,0,47.25,
+18-02-2026,1499,102,Maya Patel,Loyal,Email,8,Chino Pants,,1,16.72,5,15.88,0
+18-02-2026,1499,102,Maya Patel,Loyal,Email,16,Throw Pillow,Home,1,11.81,5,11.22,0
+18-02-2026,1499,102,Maya Patel,Loyal,Email,40,Art Kit,Toys,1,47.25,0,47.25,0
+19-02-2026,1500,12,Rowan Romano,Champion,Social,9,Wireless Earbuds,Electronics,1,,0,20.69,0
+02/19/2026,1500,12,Rowan Romano,Champion,Social,35,Building Blocks,Toys,1,11.3,,11.3,0
+19-02-2026,1501,20,Owen Kowalski,New,Paid Search,8,Chino Pants,Apparel,2,16.72,0,33.44,0
+19-02-2026,1502,87,Ivy Sullivan,At-Risk,Rfeerral,21,Storage Bin,Home,1,49.37,0,49.37,0
+,1503,112,Riley Marsh,Regular,Paid Search,12,Bluetooth Speaker,Electronics,,8.45,25,6.34,0
+19-02-2026,1503,112,Riley Marsh,Regular,Paid Search,24,Lip Balm,Beauty,1,43.42,20,34.74,0
+20-02-2026,1504,16,Morgan Ibarra,Loyal,Referral,25,Sheet Mask,Beauty,1,17.78,5,16.89,0
+20-02-2026,1504,16,Morgan Ibarra,Loyal,Referral,18,LED Lamp,,1,44.01,0,44.01,0
+20-02-2026,1504,16,Morgan Ibarra,Loyal,Referral,26,Shampoo Bar,Beauty,1,31.76,10,28.58,0
+20-02-2026,1505,20,Owen Kowalski,New,Paid Search,37,Plush Bear,Toys,2,52.67,0,105.34,0
+20-02-2026,1506,37,Wren Petrov,Regular,Referral,31,Resistance Bands,Sports,1,57.51,20,46.01,0
+20-02-2026,1506,37,Wren Petrov,Regular,Referral,26,Shampoo Bar,Beauty,1,31.76,10,28.58,0
+20-02-2026,1506,37,Wren Petrov,Regular,Referral,9,Wireless Earbuds,Electronics,1,20.69,15,17.59,0
+20-02-2026,1507,53,Maya Reid,Loyal,Paid Search,23,Vitamin C Serum,Beauty,2,38.14,0,76.28,0
+20-02-2026,1508,60,,Loyal,Direct,23,Vitamin C Serum,Beauty,2,38.14,10,68.65,0
+20-02-2026,1509,67,Noel Costa,Loyal,Social,8,Chino Pants,Apparel,1,16.72,5,15.88,0
+20-02-2026,1509,67,Noel Costa,Loyal,Social,23,Vitamin C Serum,eBauty,1,38.14,0,38.14,0
+20-02-2026,1509,67,,Loyal,Social,23,Vitamin C Serum,Beauty,1,38.14,5,36.23,0
+20-02-2026,1510,98,Sasha Sullivan,Champion,Organic,14,Power Bank,Electronics,1,15.36,5,14.59,0
+20-02-2026,1510,98,Sasha Sullivan,Champion,Organic,37,Plush Bear,  Toys ,1,52.67,0,52.67,0
+21-02-2026,1511,14,Jordan Ahmed,New,Email,28,SPF 50 Lotion,Beauty,2,21.24,0,42.48,0
+,1511,14,Jordan Ahmed,New,Email,29,Yoga Mat,Sports,2,45.67,0,91.34,0
+21-02-2026,1512,39,Avery Ahmed,Loyal,Referral,40,Art Kit,Toys,1,47.25,5,,0
+21-02-2026,1513,51,aHrper Petrov,New,Email,17,Ceramic Mug,Home,1,6.61,15,5.62,0
+21-02-2026,1513,51,  Harper Petrov ,New,Email,34,Running Belt,Sports,1,58.26,25,43.7,0
+21-02-2026,1514,79,Iris Cohen,Regular,Organic,34,  Running Belt ,Sports,2,58.26,15,99.04,0
+21-02-2026,1514,79,Iris Cohen,Regular,Organic,33,Jump Rope,Sports,1,40.94,15,34.8,0
+21-02-2026,1515,83,Drew Larsen,New,Email,21,Storage Bin,Home,3,49.37,20,118.49,0
+21-02-2026,1516,101,Kai Romano,Champion,Email,15,Smart Plug,Electronics,1,47.71,0,47.71,0
+21-02-2026,1516,101,Kai Romano,Champion,Email,38,Board Game,Toys,1,25.14,0,25.14,0
+22-02-2026,1517,25,Owen Ibarra,New,Social,34,Running Belt,Sports,1,58.26,0,58.26,0
+02-22-2026,,44,Priya Yamada,Regular,Email,9,Wireless Earbuds,,1,20.69,0,20.69,0
+22-02-2026,1519,46,Leo Tan,Loyal,Email,24,Lip Balm,Beauty,1,43.42,5,41.25,0
+22-02-2026,1520,47,,Champion,Organic,3,Denim Jacket,Apparel,1,25.47,0,25.47,0
+22-02-2026,1520,47,,Champion,Organic,34,Running Belt,Sports,1,58.26,5,55.35,0
+22-02-2026,1521,98,Sasha Sullivan,Cahmpion,Organic,8,Chino Pants,Apparel,3,16.72,,50.16,0
+22-02-2026,1522,109,Drew Marsh,Champion,Direct,2,Hoodie,Apparel,1,64.02,0,64.02,0
+22-02-2026,1522,109,Drew Marsh,,Direct,37,Plush Bear,Toys,1,52.67,10,,0
+02-22-2026,1522,109,,Champion,Direct,30,Water Bottle,Sports,1,41.49,0,41.49,0
+22-02-2026,,109,Drew Marsh,Champion,  Direct ,8,Chino Pants,Apparel,1,16.72,0,16.72,0
+23-02-2026,1523,59,Quinn Petrov,  Loyal ,Organic,34,Running Belt,,2,58.26,0,116.52,0
+23-02-2026,1524,70,Lila Reyes,Regular,Referral,1,Crew Tee,Apparel,1,47.45,0,47.45,0
+23-02-2026,1524,70,Lila Reyes,Regular,Referral,32,Foam Roller,Sports,1,61.06,0,61.06,0
+23-02-2026,1524,70,Lila Reyes,Regular,Referral,39,RC Car,Toys,1,39.98,0,39.98,1
+23-02-2026,1525,98,Sasha Sullivan,Champion,Organic,33,Jump Rope,Sports,1,40.94,0,40.94,0
+23-02-2026,1526,99,Lila Osei,Loyal,Referral,33,Jump Rope,Sports,1,40.94,0,40.94,0
+24-02-2026,1527,12,Rowan Romano,Champion,Social,23,Vitamin C Serum,Beauty,2,38.14,0,76.28,0
+24-02-2026,1528,115,Taylor Fischer,New,Email,39,RC Car,Toys,2,39.98,0,79.96,0
+25-02-2026,1529,117,Avery Romano,Regular,Social,37,Plush Bear,Toys,2,52.67,0,105.34,0
+25-02-2026,1529,117,Avery Romano,Regular,Social,33,Jump Rope,  Sports ,1,40.94,0,40.94,0
+02-25-2026,1529,117,Avery Romano,Regular,Social,30,Water Bottle,Sports,1,41.49,0,,0
+26-02-2026,1530,12,  Rowan Romano ,Champion,,1,Crew Tee,Apparel,2,47.45,25,71.18,0
+26-02-2026,1530,12,Rowan Romano,Champion,Social,5,Socks 3-Pack,Apparel,2,42.53,25,63.8,0
+26-02-2026,1530,12,Rowan Romano,Champion,Social,32,,Sports,2,61.06,25,91.59,0
+26-02-2026,1531,34,Kai Park,New,Organic,36,Puzzle 500pc,Toys,2,23.23,20,37.17,0
+26-02-2026,1531,34,Kai Park,New,Organic,9,Wireless Earbuds,Electronics,1,20.69,,18.62,0
+26-02-2026,1531,34,Kai Park,New,,31,Resistance Bands,Sports,1,57.51,15,48.88,0
+26-02-2026,1531,34,Kai Park,New,Organic,2,Hoodie,Apparel,3,,15,163.25,0
+26-02-2026,1532,77,Ezra Diaz,Loyal,Social,6,Beanie,Apparel,1,70.47,25,52.85,0
+26-02-2026,1532,77,Ezra Diaz,Loyal,Social,24,Lip Balm,Beauty,1,43.42,10,39.08,0
+26-02-2026,1532,77,Ezra Diaz,Loyal,Socail,37,Plush Bear,Toys,1,52.67,10,47.4,0
+26-02-2026,1532,77,  Ezra Diaz ,Loyal,Social,32,Foam Roller,Sports,,61.06,25,45.8,0
+26-02-2026,1533,109,Drew Marsh,,Direct,31,Resistance Bands,Sports,1,57.51,0,57.51,0
+27-02-2026,1534,18,Cole Hassan,Regular,Referral,34,Running Belt,Sports,1,58.26,0,58.26,0
+27-02-2026,1534,18,Cole Hassan,Regular,Referral,7,,Apparel,1,79.39,0,79.39,0
+27-02-2026,1535,24,Tessa Reyes,New,Email,15,Smart Plug,Electronics,1,47.71,0,47.71,0
+27-02-2026,1535,24,Tessa Reyes,New,mEail,19,Cutting Board,Home,2,50.14,0,100.28,
+27-02-2026,1535,24,Tessa Reyes,New,Email,27,Hand Cream,Beauty,1,27.3,,27.3,0
+27-02-2026,1535,24,Tessa Reyes,New,Email,27,Hand Cream,Beauty,3,27.3,0,81.9,0
+27-02-2026,1536,46,Leo Tan,Loyal,Email,23,Vitamin C Serum,Beauty,1,38.14,10,34.33,0
+02-27-2026,,46,Leo Tan,Loyal,Email,7,Rain Shell,Apparel,1,79.39,10,71.45,0
+27-02-2026,1536,46,Leo Tan,Loyal,Email,4,Joggers,Apparel,1,34.83,5,33.09,0
+27-02-2026,1537,75,Drew Costa,,Organic,16,Throw Pillow,Home,1,11.81,0,11.81,0
+27-02-2026,1538,103,Owen Nguyen,,Paid Search,23,Vitamin C Serum,Beauty,2,38.14,15,64.84,0
+27-02-2026,1539,109,Drew Marsh,  Champion ,Direct,27,Hand Cream,Beauty,1,27.3,10,24.57,0
+27-02-2026,1539,109,Drew Marsh,Champion,Direct,17,Ceramic Mug,Home,1,6.61,0,6.61,0
+27-02-2026,1539,109,Drew Marsh,Champion,Direct,28,SPF 50 Lotion,Beauty,1,21.24,0,21.24,0
+27-02-2026,1540,110,Nora Sullivan,Regular,Paid Search,24,Lip Balm,Beauty,1,43.42,0,43.42,0
+27-02-2026,1540,110,Nora Sullivan,Regular,Paid Search,38,Board Game,Toys,1,25.14,0,25.14,0
+27-02-2026,1541,125,Riley Park,Loyal,Organic,34,Running Belt,Sports,2,58.26,5,110.69,0
+28-02-2026,1542,16,Morgan Ibarra,Loyal,Referral,3,Denim Jacket,Apparel,1,25.47,0,25.47,0
+28-02-2026,1542,16,Morgan Ibarra,Loyal,Referral,10,USB-C Cable,Electronics,2,62.68,,112.82,1
+28-02-2026,1542,16,Morgan Ibarra,Loyal,Referral,32,,Sports,1,61.06,0,61.06,0
+28-02-2026,1543,47,Owen Petrov,,Organic,29,Yoga Mat,Sports,2,45.67,5,86.77,0
+28-02-2026,1543,47,Owen Petrov,Champion,Organic,10,USB-C Cable,Electronics,1,,0,62.68,0
+02-28-2026,1544,103,Owen Nguyen,Champion,Paid Search,25,Sheet Mask,Beauty,2,17.78,5,33.78,0
+28-02-2026,1545,108,Sasha Marsh,Loyal,Referral,2,Hoodie,Apparel,2,64.02,25,96.03,0
+28-02-2026,1546,125,Riley Park,Loyal,Organic,11,Phone Case,Electronics,2,58.35,25,87.53,0
+03-01-2026,1547,3,Jordan Okafor,New,Email,18,LED Lamp,Home,1,44.01,0,44.01,0
+01-03-2026,1548,39,Avery Ahmed,Loyal,Referral,3,Denim Jacket,Apparel,2,25.47,0,50.94,0
+01-03-2026,1548,39,Avery Ahmed,Loyal,Referral,9,Wireless Earbuds,Electronics,2,20.69,0,41.38,0
+01-03-2026,1548,,Avery Ahmed,Loyal,Referral,15,Smart Plug,Electronics,1,47.71,10,42.94,1
+01-03-2026,1548,39,Avery Ahmed,Loyal,,22,Scented Candle,  Home ,1,29.98,0,29.98,0
+01-03-2026,1549,67,Noel Costa,Loyal,Social,23,Vitamin C Serum,Beauty,1,38.14,10,34.33,0
+01-03-2026,1549,67,Noel Costa,Loyal,Social,32,Foam Roller,,1,61.06,0,61.06,0
+01-03-2026,1549,67,Noel Costa,Loyal,Social,,Hoodie,Apparel,1,64.02,0,64.02,0
+01-03-2026,1550,80,Leo Patel,Champion,Organic,30,Water Bottle,Sports,3,41.49,5,118.25,0
+06-11-2025,1084,75,Drew Costa,Loyal,Organic,32,,Sports,1,61.06,5,58.01,0
+09-11-2025,1100,98,Sasha Sullivan,Champion,Organic,31,Resistance Bands,Sports,1,57.51,5,54.63,0
+17-11-2025,1138,18,Cole Hassan,Regular,Referral,40,Art Kit,Toys,1,47.25,0,,0
+11/26/2025,1180,47,Owen Petrov,Champion,Organic,34,Running Belt,Sports,,58.26,10,52.43,0
+01-12-2025,1209,68,Casey Fischer,Loyal,Paid Search,32,Foam Roller,Sports,1,61.06,0,61.06,0
+06-12-2025,1229,8,Noel Larsen,Loyal,Organic,28,SPF 50 Lotion,Beauty,2,21.24,0,42.48,0
+11-12-2025,1257,68,Casey Fischer,Loayl,Paid Search,17,Ceramic Mug,Home,1,6.61,0,,0
+11-12-2025,1258,70,Lila Reyes,Regular,Referral,31,,Sports,1,57.51,0,57.51,0
+09-01-2026,1384,,Jordan Ahmed,,Paid Search,12,  Bluetooth Speaker ,Electronics,1,8.45,0,8.45,0
+17-01-2026,1409,45,Avery Costa,Regular,Driect,3,Denim Jacket,Apparel,3,25.47,0,76.41,0
+24-01-2026,1429,84,Lila Patel,Regular,Organci,22,Scented Candle,Home,1,29.98,0,29.98,0
+19-02-2026,1501,20,Owen Kowalski,New,Paid Search,8,Chino Pants,Apparel,2,16.72,0,33.44,0
+27-02-2026,1535,24,Tessa Reyes,New,Email,27,Hand Cream,Beauty,1,27.3,,27.3,0
